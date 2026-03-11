@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QBK League Standings</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Semi+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=20260311-standings-1" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="title-panel panel">
+        <h1 id="widget-title">Spring 2026 League Standings</h1>
+      </section>
+
+      <section id="standings-grid" class="standings-grid"></section>
+    </main>
+
+    <template id="league-template">
+      <article class="league-card panel">
+        <header class="league-header">
+          <div>
+            <h2 class="league-title"></h2>
+          </div>
+        </header>
+        <div class="table-wrap">
+          <table class="standings-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Team</th>
+                <th>W</th>
+                <th>L</th>
+                <th>Win %</th>
+                <th>Diff</th>
+                <th>GP</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js?v=20260311-standings-1"></script>
+  </body>
+</html>
