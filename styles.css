@@ -257,7 +257,7 @@ h1 {
   }
 
   .table-wrap {
-    overflow-x: auto;
+    overflow-x: hidden;
     border: 1px solid rgba(152, 180, 208, 0.14);
     background: rgba(255, 255, 255, 0.86);
   }
@@ -269,44 +269,83 @@ h1 {
 
   .team-cell {
     min-width: 0;
-    font-size: 0.9rem;
+    font-size: 0.84rem;
     font-weight: 700;
     line-height: 1.1;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .standings-table th,
   .standings-table td {
-    padding: 8px 6px;
-    font-size: 0.78rem;
+    padding: 7px 4px;
+    font-size: 0.68rem;
     text-align: center;
+    font-variant-numeric: tabular-nums;
   }
 
   .standings-table thead th {
-    font-size: 0.68rem;
-    letter-spacing: 0.06em;
+    font-size: 0.6rem;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
   }
 
   .standings-table td:nth-child(2),
   .standings-table th:nth-child(2) {
     text-align: left;
-    width: 42%;
+    width: 48%;
   }
 
   .standings-table td:first-child,
   .standings-table th:first-child {
-    width: 34px;
-    padding-left: 4px;
-    padding-right: 4px;
+    width: 30px;
+    padding-left: 2px;
+    padding-right: 2px;
   }
 
-  .standings-table td:nth-child(n+3),
-  .standings-table th:nth-child(n+3) {
-    width: 9.6%;
+  .standings-table td:nth-child(3),
+  .standings-table th:nth-child(3),
+  .standings-table td:nth-child(4),
+  .standings-table th:nth-child(4),
+  .standings-table td:nth-child(7),
+  .standings-table th:nth-child(7) {
+    width: 7%;
+  }
+
+  .standings-table td:nth-child(5),
+  .standings-table th:nth-child(5) {
+    width: 13%;
+  }
+
+  .standings-table td:nth-child(6),
+  .standings-table th:nth-child(6) {
+    width: 10%;
+  }
+
+  .standings-table th:nth-child(5) {
+    font-size: 0;
+  }
+
+  .standings-table th:nth-child(5)::after {
+    content: "PCT";
+    font-size: 0.6rem;
+    letter-spacing: 0.04em;
+  }
+
+  .standings-table th:nth-child(6) {
+    font-size: 0;
+  }
+
+  .standings-table th:nth-child(6)::after {
+    content: "DIFF";
+    font-size: 0.6rem;
+    letter-spacing: 0.04em;
   }
 
   .rank-chip {
-    width: 24px;
-    height: 24px;
-    font-size: 0.82rem;
+    width: 22px;
+    height: 22px;
+    font-size: 0.74rem;
   }
 }
