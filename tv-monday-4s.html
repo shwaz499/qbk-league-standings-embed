@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monday 4s TV View</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Semi+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=20260312-tv-1" />
+  </head>
+  <body data-tv="1" data-season-id="104" data-season-label="Spring 2026" data-league-title="Monday 4s">
+    <main class="tv-shell">
+      <article class="tv-card panel">
+        <header class="tv-header">
+          <h1 id="tv-league-title">Monday 4s</h1>
+        </header>
+        <div class="table-wrap tv-table-wrap">
+          <table class="standings-table tv-standings-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Team</th>
+                <th>W</th>
+                <th>L</th>
+                <th>Win %</th>
+                <th>Diff</th>
+                <th>GP</th>
+              </tr>
+            </thead>
+            <tbody id="tv-table-body"></tbody>
+          </table>
+          <div id="tv-empty-state" class="empty-state">Loading standings...</div>
+        </div>
+      </article>
+    </main>
+    <script src="./tv.js?v=20260312-tv-1"></script>
+  </body>
+</html>

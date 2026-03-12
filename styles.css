@@ -45,6 +45,14 @@ body::before {
   pointer-events: none;
 }
 
+body[data-tv="1"] {
+  min-height: 100vh;
+}
+
+body[data-tv="1"]::before {
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.9), transparent 100%);
+}
+
 .shell {
   width: min(1380px, calc(100vw - 32px));
   margin: 22px auto 40px;
@@ -208,7 +216,7 @@ h1 {
 }
 
 @media (max-width: 900px) {
-  .shell {
+.shell {
     width: min(100vw - 12px, 1380px);
     margin: 8px auto 16px;
   }
@@ -225,6 +233,58 @@ h1 {
   .standings-grid {
     grid-template-columns: 1fr;
   }
+}
+
+.tv-shell {
+  width: min(1800px, calc(100vw - 32px));
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 20px 0;
+  display: grid;
+  align-items: center;
+}
+
+.tv-card {
+  padding: 26px 28px 24px;
+}
+
+.tv-header {
+  margin-bottom: 18px;
+}
+
+.tv-header h1 {
+  font-size: clamp(3rem, 6vw, 5.8rem);
+  text-align: left;
+}
+
+.tv-table-wrap {
+  overflow: hidden;
+}
+
+.tv-standings-table {
+  min-width: 0;
+}
+
+.tv-standings-table th,
+.tv-standings-table td {
+  padding: 16px 18px;
+  font-size: clamp(1rem, 1.3vw, 1.45rem);
+}
+
+.tv-standings-table thead th {
+  font-size: clamp(0.85rem, 1vw, 1.05rem);
+}
+
+.tv-standings-table .team-cell {
+  min-width: 340px;
+  font-size: clamp(1.1rem, 1.45vw, 1.55rem);
+  font-weight: 700;
+}
+
+body[data-tv="1"] .rank-chip {
+  width: 34px;
+  height: 34px;
+  font-size: 1rem;
 }
 
 @media (max-width: 680px) {
