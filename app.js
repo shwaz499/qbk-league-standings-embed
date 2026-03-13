@@ -44,25 +44,40 @@
     return fragment;
   }
 
-  async function loadStandings(force = false) {
-    const endpoint = new URL("/api/standings", window.location.origin);
-    endpoint.searchParams.set("season_id", seasonId);
-    endpoint.searchParams.set("season_label", seasonLabelOverride);
-    endpoint.searchParams.set("hide_sunday", hideSunday ? "1" : "0");
-    endpoint.searchParams.set("dedupe", dedupe ? "1" : "0");
-    if (force) {
-      endpoint.searchParams.set("refresh", "1");
-      endpoint.searchParams.set("_ts", String(Date.now()));
+  async function fetchStaticStandings() {
+    const staticUrl = new URL(`./data/standings-${seasonId}.json`, window.location.href);
+    const response = await fetch(staticUrl, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error(`Static standings not available (${response.status})`);
     }
+    return response.json();
+  }
 
+  async function loadStandings(force = false) {
     renderEmpty("Loading live standings...", "is-loading");
 
     try {
-      const response = await fetch(endpoint, { cache: "no-store" });
-      if (!response.ok) {
-        throw new Error(`Request failed with ${response.status}`);
+      let payload;
+      try {
+        payload = await fetchStaticStandings();
+      } catch (staticError) {
+        const endpoint = new URL("/api/standings", window.location.origin);
+        endpoint.searchParams.set("season_id", seasonId);
+        endpoint.searchParams.set("season_label", seasonLabelOverride);
+        endpoint.searchParams.set("hide_sunday", hideSunday ? "1" : "0");
+        endpoint.searchParams.set("dedupe", dedupe ? "1" : "0");
+        if (force) {
+          endpoint.searchParams.set("refresh", "1");
+          endpoint.searchParams.set("_ts", String(Date.now()));
+        }
+
+        const response = await fetch(endpoint, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`Request failed with ${response.status}`);
+        }
+        payload = await response.json();
       }
-      const payload = await response.json();
+
       if (els.widgetTitle) {
         els.widgetTitle.textContent = `${payload.season_label || seasonLabelOverride} League Standings`;
       }
