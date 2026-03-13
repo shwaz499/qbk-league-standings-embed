@@ -12,6 +12,7 @@ FILES_TO_COPY = [
     "widget.html",
     "app.js",
     "styles.css",
+    "widget-overrides.css",
 ]
 
 

@@ -1,0 +1,19 @@
+body[data-embed="1"] {
+  background: transparent;
+}
+
+body[data-embed="1"]::before {
+  display: none;
+}
+
+body[data-embed="1"] .title-panel.panel,
+body[data-embed="1"] .league-card.panel {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+body[data-embed="1"] .title-panel.panel::after,
+body[data-embed="1"] .league-card.panel::after {
+  display: none;
+}
