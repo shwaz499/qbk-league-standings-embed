@@ -1,7 +1,7 @@
 {
   "season_id": "104",
   "season_label": "Spring 2026",
-  "generated_at": 1773409498,
+  "generated_at": 1774278137,
   "cached": false,
   "leagues": [
     {
@@ -11,168 +11,168 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "8793",
-          "team_name": "Aaah We don't have your son",
-          "w": 0,
+          "team_id": "8807",
+          "team_name": "Sandy Bud-es",
+          "w": 2,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 2,
           "team_id": "8816",
-          "team_name": "Aged, Not Old",
-          "w": 0,
+          "team_name": "Ace Ventura: Set Detective",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 3,
           "team_id": "8805",
           "team_name": "Breaded Chicken",
-          "w": 0,
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 4,
-          "team_id": "8802",
-          "team_name": "Coming In Hot",
-          "w": 0,
+          "team_id": "8980",
+          "team_name": "Give Me Back My Son",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 5,
-          "team_id": "9013",
-          "team_name": "Fellowship of the Swing",
-          "w": 0,
+          "team_id": "8981",
+          "team_name": "Maxine Took Your Son",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 6,
-          "team_id": "8651",
-          "team_name": "Free Agent Team - Mon Int",
-          "w": 0,
+          "team_id": "8946",
+          "team_name": "Overserved",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 7,
-          "team_id": "8980",
-          "team_name": "Give Me Back My Son",
-          "w": 0,
+          "team_id": "8793",
+          "team_name": "Aaah We don't have your son",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 8,
-          "team_id": "8813",
-          "team_name": "How I Set Your Mother",
+          "team_id": "8802",
+          "team_name": "Coming In Hot",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 9,
-          "team_id": "8981",
-          "team_name": "Maxine Took Your Son",
+          "team_id": "9011",
+          "team_name": "The Seltz Spikers",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 10,
-          "team_id": "8946",
-          "team_name": "Overserved",
+          "team_id": "8651",
+          "team_name": "Beach Don't Kill My Vibe",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 11,
-          "team_id": "8807",
-          "team_name": "Sandy Bud-es",
+          "team_id": "9013",
+          "team_name": "Fellowship of the Swing",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 12,
-          "team_id": "8812",
-          "team_name": "Some Spike it Hot",
+          "team_id": "8813",
+          "team_name": "How I Set Your Mother",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 13,
-          "team_id": "8811",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "8812",
+          "team_name": "Some Spike it Hot",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 14,
-          "team_id": "9012",
-          "team_name": "The Seltz Spikers",
+          "team_id": "8811",
+          "team_name": "Spikel B. Jordan",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 15,
           "team_id": "8837",
           "team_name": "The Spiked Seltzers",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         }
       ]
     },
@@ -183,91 +183,91 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "8901",
-          "team_name": "The New York Hits",
-          "w": 1,
+          "team_id": "8934",
+          "team_name": "Irish Setters",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "8650",
-          "team_name": "Free Agent Team - Tues Rec",
-          "w": 1,
+          "team_id": "8901",
+          "team_name": "The New York Hits",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "8934",
-          "team_name": "Irish Setters",
+          "team_id": "8808",
+          "team_name": "that's what she set",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "8942",
-          "team_name": "Jacobs Overhead",
+          "team_id": "8650",
+          "team_name": "Free Agent Team - Tues Rec",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 5,
-          "team_id": "8951",
-          "team_name": "Kiss My Ace",
-          "w": 0,
+          "team_id": "8936",
+          "team_name": "How I Set Your Mother",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "8931",
-          "team_name": "Talk to the Sand",
-          "w": 0,
+          "team_id": "8942",
+          "team_name": "Jacobs Overhead",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 7,
-          "team_id": "8808",
-          "team_name": "that's what she set",
+          "team_id": "8931",
+          "team_name": "Talk to the Sand",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 8,
-          "team_id": "8936",
-          "team_name": "How I Set Your Mother",
+          "team_id": "8951",
+          "team_name": "Kiss My Ace",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         }
       ]
     },
@@ -278,41 +278,41 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "8948",
-          "team_name": "Fat Dumps",
-          "w": 1,
+          "team_id": "8930",
+          "team_name": "Panic! at the net",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "8930",
-          "team_name": "Panic! at the net",
-          "w": 1,
+          "team_id": "8948",
+          "team_name": "Fat Dumps",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 3,
           "team_id": "8886",
           "team_name": "Cheeky Wailers",
-          "w": 1,
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "8810",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "8899",
+          "team_name": "The Swingers",
           "w": 1,
           "l": 1,
           "win_pct": 0.5,
@@ -322,36 +322,36 @@
         },
         {
           "rank": 5,
-          "team_id": "8899",
-          "team_name": "The Swingers",
-          "w": 0,
-          "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
+          "team_id": "8810",
+          "team_name": "Spikel B. Jordan",
+          "w": 1,
+          "l": 2,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
           "diff": -1,
-          "gp": 1
+          "gp": 3
         },
         {
           "rank": 6,
-          "team_id": "8654",
-          "team_name": "Free Agent Team - Wed Int",
-          "w": 0,
-          "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
-        },
-        {
-          "rank": 7,
           "team_id": "8903",
           "team_name": "Pokie Pookies",
           "w": 0,
-          "l": 1,
+          "l": 3,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -5,
+          "gp": 3
+        },
+        {
+          "rank": 7,
+          "team_id": "8654",
+          "team_name": "Nice and Easy",
+          "w": 0,
+          "l": 2,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -6,
+          "gp": 2
         }
       ]
     },
@@ -362,85 +362,74 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "8902",
-          "team_name": "David and the Goliaths",
-          "w": 1,
+          "team_id": "8804",
+          "team_name": "Rally Cats",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 2,
           "team_id": "8798",
           "team_name": "holy blockamole",
-          "w": 1,
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "8804",
-          "team_name": "Rally Cats",
-          "w": 1,
+          "team_id": "8799",
+          "team_name": "Setteritaville",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "8803",
-          "team_name": "Spuds",
-          "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
+          "team_id": "8887",
+          "team_name": "Tip Teasers",
+          "w": 2,
+          "l": 1,
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
           "diff": 3,
-          "gp": 1
+          "gp": 3
         },
         {
           "rank": 5,
-          "team_id": "8949",
-          "team_name": "Picklebacks",
+          "team_id": "8902",
+          "team_name": "David and the Goliaths",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "8809",
-          "team_name": "setsy beasts",
+          "team_id": "8800",
+          "team_name": "Spikeritaville",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 7,
-          "team_id": "8799",
-          "team_name": "Setteritaville",
-          "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
-        },
-        {
-          "rank": 8,
-          "team_id": "8887",
-          "team_name": "Tip Teasers",
+          "team_id": "8815",
+          "team_name": "Volley Llamas",
           "w": 1,
           "l": 1,
           "win_pct": 0.5,
@@ -449,81 +438,92 @@
           "gp": 2
         },
         {
-          "rank": 9,
-          "team_id": "8653",
-          "team_name": "Free Agent Team - Thurs Int",
-          "w": 0,
+          "rank": 8,
+          "team_id": "8801",
+          "team_name": "Net Assets",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
+        },
+        {
+          "rank": 9,
+          "team_id": "8949",
+          "team_name": "Picklebacks",
+          "w": 1,
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 10,
-          "team_id": "8935",
-          "team_name": "Setting Ducks",
-          "w": 0,
+          "team_id": "9015",
+          "team_name": "See You Next Thursday",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 11,
-          "team_id": "8800",
-          "team_name": "Spikeritaville",
-          "w": 0,
+          "team_id": "8809",
+          "team_name": "setsy beasts",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 12,
-          "team_id": "8801",
-          "team_name": "Net Assets",
-          "w": 0,
-          "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "team_id": "8803",
+          "team_name": "Spuds",
+          "w": 1,
+          "l": 2,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -1,
+          "gp": 3
         },
         {
           "rank": 13,
-          "team_id": "9015",
-          "team_name": "Thursday Free Agent Team (2)",
+          "team_id": "8935",
+          "team_name": "Setting Ducks",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 14,
-          "team_id": "8815",
-          "team_name": "Volley Llamas",
+          "team_id": "8653",
+          "team_name": "Beer Please!",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         },
         {
           "rank": 15,
           "team_id": "8814",
           "team_name": "Volley Parton",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         }
       ]
     },
@@ -536,67 +536,67 @@
           "rank": 1,
           "team_id": "8929",
           "team_name": "AP Gnomes",
-          "w": 1,
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "8652",
-          "team_name": "Free Agent Team - Thurs Rec",
-          "w": 1,
+          "team_id": "8947",
+          "team_name": "Overserved",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "8947",
-          "team_name": "Overserved",
+          "team_id": "8652",
+          "team_name": "Free Agent Team - Thurs Rec",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 4,
           "team_id": "8900",
           "team_name": "Setting Ducks 2",
-          "w": 0,
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 5,
-          "team_id": "8806",
-          "team_name": "The elite squad",
+          "team_id": "9014",
+          "team_name": "Matthew",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "9014",
-          "team_name": "Thursday Rec - Free Agents 2",
+          "team_id": "8806",
+          "team_name": "The elite squad",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         }
       ]
     }
