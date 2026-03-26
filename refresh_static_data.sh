@@ -12,7 +12,12 @@ fi
 
 git config user.name "QBK Standings Refresh"
 git config user.email "joshschwartztv@gmail.com"
-git remote set-url origin "https://${GITHUB_PERSONAL_ACCESS_TOKEN}@github.com/shwaz499/qbk-league-standings-embed.git"
+REPO_URL="https://${GITHUB_PERSONAL_ACCESS_TOKEN}@github.com/shwaz499/qbk-league-standings-embed.git"
+if git remote get-url origin >/dev/null 2>&1; then
+  git remote set-url origin "$REPO_URL"
+else
+  git remote add origin "$REPO_URL"
+fi
 git add data
 git commit -m "Refresh standings data"
 git push origin main
