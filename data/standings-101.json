@@ -1,7 +1,7 @@
 {
   "season_id": "101",
   "season_label": "Winter 2026",
-  "generated_at": 1776170625,
+  "generated_at": 1776345118,
   "cached": false,
   "leagues": [
     {
@@ -303,88 +303,88 @@
           "team_id": "8406",
           "team_name": "Big Trees",
           "w": 5,
-          "l": 1,
-          "win_pct": 0.833,
-          "win_pct_display": "0.833",
-          "diff": 14,
-          "gp": 6
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 15,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "8296",
           "team_name": "Serveza",
-          "w": 5,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.833,
-          "win_pct_display": "0.833",
-          "diff": 10,
-          "gp": 6
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 9,
+          "gp": 5
         },
         {
           "rank": 3,
           "team_id": "8330",
           "team_name": "Panic! at the net",
-          "w": 4,
+          "w": 3,
           "l": 2,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 8,
-          "gp": 6
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 5,
+          "gp": 5
         },
         {
           "rank": 4,
-          "team_id": "8409",
-          "team_name": "Reigning Wailers",
-          "w": 4,
-          "l": 2,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 4,
-          "gp": 6
-        },
-        {
-          "rank": 5,
-          "team_id": "8405",
-          "team_name": "Set happens",
-          "w": 4,
-          "l": 2,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 2,
-          "gp": 6
-        },
-        {
-          "rank": 6,
           "team_id": "8295",
           "team_name": "Pier 6 Mafia",
           "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 6
+          "l": 2,
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 3,
+          "gp": 5
+        },
+        {
+          "rank": 5,
+          "team_id": "8409",
+          "team_name": "Reigning Wailers",
+          "w": 3,
+          "l": 2,
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 1,
+          "gp": 5
+        },
+        {
+          "rank": 6,
+          "team_id": "8405",
+          "team_name": "Set happens",
+          "w": 3,
+          "l": 2,
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": -1,
+          "gp": 5
         },
         {
           "rank": 7,
-          "team_id": "8391",
-          "team_name": "a very good restaurant",
-          "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -4,
-          "gp": 6
-        },
-        {
-          "rank": 8,
           "team_id": "8402",
           "team_name": "Spikel B. Jordan",
           "w": 2,
-          "l": 4,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": 0,
-          "gp": 6
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": 3,
+          "gp": 5
+        },
+        {
+          "rank": 8,
+          "team_id": "8391",
+          "team_name": "a very good restaurant",
+          "w": 2,
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -7,
+          "gp": 5
         },
         {
           "rank": 9,
@@ -402,22 +402,22 @@
           "team_id": "8251",
           "team_name": "Under Promise Over Deliver",
           "w": 0,
-          "l": 6,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -16,
-          "gp": 6
+          "diff": -13,
+          "gp": 5
         },
         {
           "rank": 11,
           "team_id": "8218",
           "team_name": "No Drama, No Trauma",
           "w": 0,
-          "l": 6,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -18,
-          "gp": 6
+          "diff": -15,
+          "gp": 5
         }
       ]
     },
@@ -430,122 +430,122 @@
           "rank": 1,
           "team_id": "8208",
           "team_name": "holy blockamole",
-          "w": 6,
+          "w": 5,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 14,
-          "gp": 6
+          "diff": 11,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "8266",
           "team_name": "Rally Cats",
-          "w": 6,
+          "w": 5,
           "l": 1,
-          "win_pct": 0.857,
-          "win_pct_display": "0.857",
-          "diff": 15,
-          "gp": 7
+          "win_pct": 0.833,
+          "win_pct_display": "0.833",
+          "diff": 12,
+          "gp": 6
         },
         {
           "rank": 3,
           "team_id": "8327",
           "team_name": "David and the Goliaths",
-          "w": 6,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.857,
-          "win_pct_display": "0.857",
-          "diff": 13,
-          "gp": 7
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 7,
+          "gp": 5
         },
         {
           "rank": 4,
           "team_id": "8328",
           "team_name": "Volley llamas",
           "w": 4,
-          "l": 3,
-          "win_pct": 0.571,
-          "win_pct_display": "0.571",
-          "diff": -3,
-          "gp": 7
+          "l": 2,
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 0,
+          "gp": 6
         },
         {
           "rank": 5,
-          "team_id": "8283",
-          "team_name": "Spuds",
+          "team_id": "8389",
+          "team_name": "Picklebacks",
           "w": 3,
           "l": 3,
           "win_pct": 0.5,
           "win_pct_display": "0.500",
-          "diff": 4,
+          "diff": -6,
           "gp": 6
         },
         {
           "rank": 6,
-          "team_id": "8286",
-          "team_name": "Tip Teasers",
-          "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 2,
-          "gp": 6
-        },
-        {
-          "rank": 7,
-          "team_id": "8389",
-          "team_name": "Picklebacks",
-          "w": 3,
-          "l": 4,
-          "win_pct": 0.429,
-          "win_pct_display": "0.429",
-          "diff": -9,
-          "gp": 7
-        },
-        {
-          "rank": 8,
           "team_id": "8344",
           "team_name": "setsy beasts",
           "w": 2,
-          "l": 4,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": -2,
-          "gp": 6
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": 1,
+          "gp": 5
+        },
+        {
+          "rank": 7,
+          "team_id": "8283",
+          "team_name": "Spuds",
+          "w": 2,
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": 1,
+          "gp": 5
+        },
+        {
+          "rank": 8,
+          "team_id": "8286",
+          "team_name": "Tip Teasers",
+          "w": 2,
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -1,
+          "gp": 5
         },
         {
           "rank": 9,
           "team_id": "8400",
           "team_name": "Chatty Cathies 6.0",
           "w": 2,
-          "l": 5,
-          "win_pct": 0.286,
-          "win_pct_display": "0.286",
-          "diff": -7,
-          "gp": 7
+          "l": 4,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -4,
+          "gp": 6
         },
         {
           "rank": 10,
           "team_id": "8607",
           "team_name": "Sandy Sets",
           "w": 1,
-          "l": 6,
-          "win_pct": 0.143,
-          "win_pct_display": "0.143",
-          "diff": -15,
-          "gp": 7
+          "l": 5,
+          "win_pct": 0.167,
+          "win_pct_display": "0.167",
+          "diff": -12,
+          "gp": 6
         },
         {
           "rank": 11,
           "team_id": "8206",
           "team_name": "Sets with Strangers",
           "w": 0,
-          "l": 6,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -12,
-          "gp": 6
+          "diff": -9,
+          "gp": 5
         }
       ]
     },
@@ -558,89 +558,89 @@
           "rank": 1,
           "team_id": "8216",
           "team_name": "Setting Ducks",
-          "w": 6,
+          "w": 5,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 10,
-          "gp": 6
+          "diff": 7,
+          "gp": 5
         },
         {
           "rank": 2,
-          "team_id": "8393",
-          "team_name": "P.O.S.",
-          "w": 4,
-          "l": 2,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 8,
-          "gp": 6
-        },
-        {
-          "rank": 3,
           "team_id": "8395",
           "team_name": "Here for Beer 17.0",
           "w": 4,
+          "l": 1,
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 7,
+          "gp": 5
+        },
+        {
+          "rank": 3,
+          "team_id": "8393",
+          "team_name": "P.O.S.",
+          "w": 3,
           "l": 2,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 6,
-          "gp": 6
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 5,
+          "gp": 5
         },
         {
           "rank": 4,
           "team_id": "8368",
           "team_name": "AP Gnomes",
           "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 6
+          "l": 2,
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 1,
+          "gp": 5
         },
         {
           "rank": 5,
           "team_id": "8604",
           "team_name": "The New York Hits",
-          "w": 3,
+          "w": 2,
           "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 6
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -1,
+          "gp": 5
         },
         {
           "rank": 6,
           "team_id": "8398",
           "team_name": "Overserved",
-          "w": 3,
+          "w": 2,
           "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 6
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -3,
+          "gp": 5
         },
         {
           "rank": 7,
           "team_id": "8205",
           "team_name": "Volley Llamas 6s \ud83e\udd99",
           "w": 1,
-          "l": 5,
-          "win_pct": 0.167,
-          "win_pct_display": "0.167",
-          "diff": -10,
-          "gp": 6
+          "l": 4,
+          "win_pct": 0.2,
+          "win_pct_display": "0.200",
+          "diff": -7,
+          "gp": 5
         },
         {
           "rank": 8,
           "team_id": "8606",
           "team_name": "Spikeological Warfare",
           "w": 0,
-          "l": 6,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -12,
-          "gp": 6
+          "diff": -9,
+          "gp": 5
         }
       ]
     }
