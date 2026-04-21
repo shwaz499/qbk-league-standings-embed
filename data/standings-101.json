@@ -1,7 +1,7 @@
 {
   "season_id": "101",
   "season_label": "Winter 2026",
-  "generated_at": 1776689758,
+  "generated_at": 1776775784,
   "cached": false,
   "leagues": [
     {
@@ -185,89 +185,89 @@
           "rank": 1,
           "team_id": "8342",
           "team_name": "that's what she set",
-          "w": 5,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.833,
-          "win_pct_display": "0.833",
-          "diff": 12,
-          "gp": 6
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 9,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "8426",
           "team_name": "Irish Setters",
-          "w": 5,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.833,
-          "win_pct_display": "0.833",
-          "diff": 10,
-          "gp": 6
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 7,
+          "gp": 5
         },
         {
           "rank": 3,
-          "team_id": "8252",
-          "team_name": "Setteritaville",
+          "team_id": "8203",
+          "team_name": "Holy Blockamole",
+          "w": 3,
+          "l": 1,
+          "win_pct": 0.75,
+          "win_pct_display": "0.750",
+          "diff": 4,
+          "gp": 4
+        },
+        {
+          "rank": 4,
+          "team_id": "8590",
+          "team_name": "Unprotected Sets",
           "w": 3,
           "l": 2,
           "win_pct": 0.6,
           "win_pct_display": "0.600",
+          "diff": -1,
+          "gp": 5
+        },
+        {
+          "rank": 5,
+          "team_id": "8252",
+          "team_name": "Setteritaville",
+          "w": 2,
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 4
+        },
+        {
+          "rank": 6,
+          "team_id": "8463",
+          "team_name": "Aceholes",
+          "w": 2,
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
           "diff": 1,
           "gp": 5
         },
         {
-          "rank": 4,
-          "team_id": "8463",
-          "team_name": "Aceholes",
-          "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 4,
-          "gp": 6
-        },
-        {
-          "rank": 5,
-          "team_id": "8203",
-          "team_name": "Holy Blockamole",
-          "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 6
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "team_id": "8601",
           "team_name": "Spike 'Em if You Got 'Em",
-          "w": 3,
+          "w": 1,
           "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 6
-        },
-        {
-          "rank": 7,
-          "team_id": "8590",
-          "team_name": "Unprotected Sets",
-          "w": 3,
-          "l": 3,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
           "diff": -4,
-          "gp": 6
+          "gp": 4
         },
         {
           "rank": 8,
           "team_id": "8600",
           "team_name": "Jacobs",
           "w": 1,
-          "l": 4,
-          "win_pct": 0.2,
-          "win_pct_display": "0.200",
-          "diff": -11,
-          "gp": 5
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -8,
+          "gp": 4
         },
         {
           "rank": 9,
@@ -285,11 +285,11 @@
           "team_id": "8403",
           "team_name": "Talk to the Sand",
           "w": 0,
-          "l": 6,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -12,
-          "gp": 6
+          "diff": -6,
+          "gp": 4
         }
       ]
     },
