@@ -1,7 +1,7 @@
 {
   "season_id": "104",
   "season_label": "Spring 2026",
-  "generated_at": 1776775786,
+  "generated_at": 1776865017,
   "cached": false,
   "leagues": [
     {
@@ -185,89 +185,89 @@
           "rank": 1,
           "team_id": "8934",
           "team_name": "Irish Setters",
-          "w": 5,
+          "w": 6,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 7,
-          "gp": 5
+          "diff": 10,
+          "gp": 6
         },
         {
           "rank": 2,
           "team_id": "8901",
           "team_name": "The New York Hits",
-          "w": 4,
+          "w": 5,
           "l": 1,
-          "win_pct": 0.8,
-          "win_pct_display": "0.800",
-          "diff": 5,
-          "gp": 5
+          "win_pct": 0.833,
+          "win_pct_display": "0.833",
+          "diff": 8,
+          "gp": 6
         },
         {
           "rank": 3,
           "team_id": "8808",
           "team_name": "that's what she set",
-          "w": 3,
+          "w": 4,
           "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": 7,
-          "gp": 5
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 10,
+          "gp": 6
         },
         {
           "rank": 4,
-          "team_id": "8942",
-          "team_name": "Jacobs Overhead",
+          "team_id": "8650",
+          "team_name": "Free Agent Team - Tues Rec",
           "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": -1,
-          "gp": 5
+          "l": 3,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 6
         },
         {
           "rank": 5,
-          "team_id": "8936",
-          "team_name": "How I Set Your Mother",
-          "w": 2,
+          "team_id": "8942",
+          "team_name": "Jacobs Overhead",
+          "w": 3,
           "l": 3,
-          "win_pct": 0.4,
-          "win_pct_display": "0.400",
-          "diff": -1,
-          "gp": 5
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -4,
+          "gp": 6
         },
         {
           "rank": 6,
-          "team_id": "8650",
-          "team_name": "Free Agent Team - Tues Rec",
+          "team_id": "8936",
+          "team_name": "How I Set Your Mother",
           "w": 2,
-          "l": 3,
-          "win_pct": 0.4,
-          "win_pct_display": "0.400",
-          "diff": -3,
-          "gp": 5
+          "l": 4,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -4,
+          "gp": 6
         },
         {
           "rank": 7,
           "team_id": "8931",
           "team_name": "Talk to the Sand",
           "w": 1,
-          "l": 4,
-          "win_pct": 0.2,
-          "win_pct_display": "0.200",
-          "diff": -3,
-          "gp": 5
+          "l": 5,
+          "win_pct": 0.167,
+          "win_pct_display": "0.167",
+          "diff": -6,
+          "gp": 6
         },
         {
           "rank": 8,
           "team_id": "8951",
           "team_name": "Kiss My Ace",
           "w": 0,
-          "l": 5,
+          "l": 6,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -11,
-          "gp": 5
+          "diff": -14,
+          "gp": 6
         }
       ]
     },

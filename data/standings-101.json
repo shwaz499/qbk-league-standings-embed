@@ -1,7 +1,7 @@
 {
   "season_id": "101",
   "season_label": "Winter 2026",
-  "generated_at": 1776775784,
+  "generated_at": 1776865015,
   "cached": false,
   "leagues": [
     {
@@ -302,89 +302,89 @@
           "rank": 1,
           "team_id": "8406",
           "team_name": "Big Trees",
-          "w": 5,
+          "w": 4,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 15,
-          "gp": 5
+          "diff": 12,
+          "gp": 4
         },
         {
           "rank": 2,
           "team_id": "8296",
           "team_name": "Serveza",
-          "w": 4,
+          "w": 3,
           "l": 1,
-          "win_pct": 0.8,
-          "win_pct_display": "0.800",
-          "diff": 9,
-          "gp": 5
+          "win_pct": 0.75,
+          "win_pct_display": "0.750",
+          "diff": 8,
+          "gp": 4
         },
         {
           "rank": 3,
-          "team_id": "8330",
-          "team_name": "Panic! at the net",
-          "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": 5,
-          "gp": 5
-        },
-        {
-          "rank": 4,
           "team_id": "8295",
           "team_name": "Pier 6 Mafia",
           "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": 3,
-          "gp": 5
+          "l": 1,
+          "win_pct": 0.75,
+          "win_pct_display": "0.750",
+          "diff": 4,
+          "gp": 4
         },
         {
-          "rank": 5,
-          "team_id": "8409",
-          "team_name": "Reigning Wailers",
-          "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": 1,
-          "gp": 5
-        },
-        {
-          "rank": 6,
-          "team_id": "8405",
-          "team_name": "Set happens",
-          "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": -1,
-          "gp": 5
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "team_id": "8402",
           "team_name": "Spikel B. Jordan",
           "w": 2,
-          "l": 3,
-          "win_pct": 0.4,
-          "win_pct_display": "0.400",
-          "diff": 3,
-          "gp": 5
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 4,
+          "gp": 4
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "team_id": "8330",
+          "team_name": "Panic! at the net",
+          "w": 2,
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 4
+        },
+        {
+          "rank": 6,
+          "team_id": "8409",
+          "team_name": "Reigning Wailers",
+          "w": 2,
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 4
+        },
+        {
+          "rank": 7,
           "team_id": "8391",
           "team_name": "a very good restaurant",
           "w": 2,
-          "l": 3,
-          "win_pct": 0.4,
-          "win_pct_display": "0.400",
-          "diff": -7,
-          "gp": 5
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -4,
+          "gp": 4
+        },
+        {
+          "rank": 8,
+          "team_id": "8405",
+          "team_name": "Set happens",
+          "w": 2,
+          "l": 2,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -4,
+          "gp": 4
         },
         {
           "rank": 9,
@@ -402,22 +402,22 @@
           "team_id": "8251",
           "team_name": "Under Promise Over Deliver",
           "w": 0,
-          "l": 5,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -13,
-          "gp": 5
+          "diff": -10,
+          "gp": 4
         },
         {
           "rank": 11,
           "team_id": "8218",
           "team_name": "No Drama, No Trauma",
           "w": 0,
-          "l": 5,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -15,
-          "gp": 5
+          "diff": -12,
+          "gp": 4
         }
       ]
     },
