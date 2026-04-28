@@ -1,7 +1,7 @@
 {
   "season_id": "101",
   "season_label": "Winter 2026",
-  "generated_at": 1777302265,
+  "generated_at": 1777381301,
   "cached": false,
   "leagues": [
     {
@@ -186,91 +186,80 @@
           "team_id": "8342",
           "team_name": "that's what she set",
           "w": 4,
-          "l": 1,
-          "win_pct": 0.8,
-          "win_pct_display": "0.800",
-          "diff": 9,
-          "gp": 5
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 10,
+          "gp": 4
         },
         {
           "rank": 2,
-          "team_id": "8426",
-          "team_name": "Irish Setters",
-          "w": 4,
-          "l": 1,
-          "win_pct": 0.8,
-          "win_pct_display": "0.800",
-          "diff": 7,
-          "gp": 5
+          "team_id": "8203",
+          "team_name": "Holy Blockamole",
+          "w": 3,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 5,
+          "gp": 3
         },
         {
           "rank": 3,
-          "team_id": "8203",
-          "team_name": "Holy Blockamole",
+          "team_id": "8590",
+          "team_name": "Unprotected Sets",
           "w": 3,
           "l": 1,
           "win_pct": 0.75,
           "win_pct_display": "0.750",
-          "diff": 4,
+          "diff": 2,
           "gp": 4
         },
         {
           "rank": 4,
-          "team_id": "8590",
-          "team_name": "Unprotected Sets",
-          "w": 3,
-          "l": 2,
-          "win_pct": 0.6,
-          "win_pct_display": "0.600",
-          "diff": -1,
-          "gp": 5
+          "team_id": "8426",
+          "team_name": "Irish Setters",
+          "w": 2,
+          "l": 1,
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 3,
+          "gp": 3
         },
         {
           "rank": 5,
-          "team_id": "8252",
-          "team_name": "Setteritaville",
-          "w": 2,
+          "team_id": "8600",
+          "team_name": "Jacobs",
+          "w": 1,
           "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 4
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -5,
+          "gp": 3
         },
         {
           "rank": 6,
-          "team_id": "8463",
-          "team_name": "Aceholes",
-          "w": 2,
-          "l": 3,
-          "win_pct": 0.4,
-          "win_pct_display": "0.400",
-          "diff": 1,
-          "gp": 5
+          "team_id": "8252",
+          "team_name": "Setteritaville",
+          "w": 1,
+          "l": 2,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -5,
+          "gp": 3
         },
         {
           "rank": 7,
-          "team_id": "8601",
-          "team_name": "Spike 'Em if You Got 'Em",
+          "team_id": "8463",
+          "team_name": "Aceholes",
           "w": 1,
           "l": 3,
           "win_pct": 0.25,
           "win_pct_display": "0.250",
-          "diff": -4,
+          "diff": 0,
           "gp": 4
         },
         {
           "rank": 8,
-          "team_id": "8600",
-          "team_name": "Jacobs",
-          "w": 1,
-          "l": 3,
-          "win_pct": 0.25,
-          "win_pct_display": "0.250",
-          "diff": -8,
-          "gp": 4
-        },
-        {
-          "rank": 9,
           "team_id": "8589",
           "team_name": "Ace Holes",
           "w": 0,
@@ -281,15 +270,26 @@
           "gp": 0
         },
         {
-          "rank": 10,
+          "rank": 9,
           "team_id": "8403",
           "team_name": "Talk to the Sand",
           "w": 0,
-          "l": 4,
+          "l": 3,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -6,
-          "gp": 4
+          "diff": -3,
+          "gp": 3
+        },
+        {
+          "rank": 10,
+          "team_id": "8601",
+          "team_name": "Spike 'Em if You Got 'Em",
+          "w": 0,
+          "l": 3,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -7,
+          "gp": 3
         }
       ]
     },
