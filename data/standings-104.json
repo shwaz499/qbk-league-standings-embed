@@ -1,7 +1,7 @@
 {
   "season_id": "104",
   "season_label": "Spring 2026",
-  "generated_at": 1777381303,
+  "generated_at": 1777555490,
   "cached": false,
   "leagues": [
     {
@@ -278,80 +278,80 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "8886",
-          "team_name": "Cheeky Wailers",
-          "w": 6,
+          "team_id": "8930",
+          "team_name": "Panic! at the net",
+          "w": 7,
           "l": 1,
-          "win_pct": 0.857,
-          "win_pct_display": "0.857",
-          "diff": 9,
-          "gp": 7
+          "win_pct": 0.875,
+          "win_pct_display": "0.875",
+          "diff": 16,
+          "gp": 8
         },
         {
           "rank": 2,
-          "team_id": "8930",
-          "team_name": "Panic! at the net",
-          "w": 5,
+          "team_id": "8886",
+          "team_name": "Cheeky Wailers",
+          "w": 7,
           "l": 1,
-          "win_pct": 0.833,
-          "win_pct_display": "0.833",
+          "win_pct": 0.875,
+          "win_pct_display": "0.875",
           "diff": 10,
-          "gp": 6
+          "gp": 8
         },
         {
           "rank": 3,
-          "team_id": "8948",
-          "team_name": "Fat Dumps",
-          "w": 4,
+          "team_id": "8899",
+          "team_name": "The Swingers",
+          "w": 5,
           "l": 3,
-          "win_pct": 0.571,
-          "win_pct_display": "0.571",
-          "diff": 5,
-          "gp": 7
+          "win_pct": 0.625,
+          "win_pct_display": "0.625",
+          "diff": 2,
+          "gp": 8
         },
         {
           "rank": 4,
-          "team_id": "8810",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "8948",
+          "team_name": "Fat Dumps",
           "w": 4,
-          "l": 3,
-          "win_pct": 0.571,
-          "win_pct_display": "0.571",
-          "diff": 3,
-          "gp": 7
+          "l": 4,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 4,
+          "gp": 8
         },
         {
           "rank": 5,
-          "team_id": "8899",
-          "team_name": "The Swingers",
+          "team_id": "8810",
+          "team_name": "Spikel B. Jordan",
           "w": 4,
-          "l": 3,
-          "win_pct": 0.571,
-          "win_pct_display": "0.571",
-          "diff": -1,
-          "gp": 7
+          "l": 4,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 8
         },
         {
           "rank": 6,
           "team_id": "8654",
           "team_name": "Nice and Easy",
           "w": 1,
-          "l": 6,
-          "win_pct": 0.143,
-          "win_pct_display": "0.143",
-          "diff": -13,
-          "gp": 7
+          "l": 7,
+          "win_pct": 0.125,
+          "win_pct_display": "0.125",
+          "diff": -16,
+          "gp": 8
         },
         {
           "rank": 7,
           "team_id": "8903",
           "team_name": "Pokie Pookies",
           "w": 0,
-          "l": 7,
+          "l": 8,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -13,
-          "gp": 7
+          "diff": -16,
+          "gp": 8
         }
       ]
     },
