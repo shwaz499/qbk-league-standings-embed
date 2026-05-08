@@ -1,7 +1,7 @@
 {
   "season_id": "104",
   "season_label": "Spring 2026",
-  "generated_at": 1778242875,
+  "generated_at": 1778245703,
   "cached": false,
   "leagues": [
     {
@@ -472,6 +472,17 @@
         },
         {
           "rank": 11,
+          "team_id": "8814",
+          "team_name": "Volley Parton",
+          "w": 2,
+          "l": 5,
+          "win_pct": 0.286,
+          "win_pct_display": "0.286",
+          "diff": -5,
+          "gp": 7
+        },
+        {
+          "rank": 12,
           "team_id": "8809",
           "team_name": "setsy beasts",
           "w": 2,
@@ -482,7 +493,7 @@
           "gp": 7
         },
         {
-          "rank": 12,
+          "rank": 13,
           "team_id": "8800",
           "team_name": "Spikeritaville",
           "w": 2,
@@ -493,7 +504,7 @@
           "gp": 7
         },
         {
-          "rank": 13,
+          "rank": 14,
           "team_id": "9015",
           "team_name": "See You Next Thursday",
           "w": 2,
@@ -504,26 +515,15 @@
           "gp": 8
         },
         {
-          "rank": 14,
-          "team_id": "8814",
-          "team_name": "Volley Parton",
-          "w": 1,
-          "l": 5,
-          "win_pct": 0.167,
-          "win_pct_display": "0.167",
-          "diff": -8,
-          "gp": 6
-        },
-        {
           "rank": 15,
           "team_id": "8653",
           "team_name": "Beer Please!",
           "w": 0,
-          "l": 6,
+          "l": 7,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -16,
-          "gp": 6
+          "diff": -19,
+          "gp": 7
         }
       ]
     },
