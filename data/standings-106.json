@@ -1,0 +1,136 @@
+{
+  "season_id": "106",
+  "season_label": "Late Spring Leagues",
+  "generated_at": 1778588157,
+  "cached": false,
+  "leagues": [
+    {
+      "league_id": "359",
+      "title": "Monday 4s",
+      "source_name": "Spring - Int - Coed - 4x4 - Mondays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9297",
+          "team_name": "Ace Ventura: Set Detective",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 2,
+          "team_id": "9187",
+          "team_name": "Give Me Back My Son",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "9201",
+          "team_name": "Sandy Bud e\u2019s",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "9141",
+          "team_name": "Joerilla",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "9027",
+          "team_name": "Tequila Sun Sets",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "9199",
+          "team_name": "Sandy Bud e's",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 7,
+          "team_id": "9194",
+          "team_name": "The Spiked Seltzers",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 8,
+          "team_id": "9304",
+          "team_name": "Volleyamorous",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 9,
+          "team_id": "9303",
+          "team_name": "Breaded Chicken",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 10,
+          "team_id": "9195",
+          "team_name": "How I Set Your Mother",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 11,
+          "team_id": "9188",
+          "team_name": "Some Spike it Hot",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        }
+      ]
+    }
+  ]
+}

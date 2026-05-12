@@ -25,8 +25,8 @@ except ModuleNotFoundError:
 PROJECT_DIR = Path(__file__).resolve().parent
 API_BASE = os.getenv("DASH_API_BASE", "https://api.dashplatform.com").rstrip("/")
 DEFAULT_PORT = int(os.getenv("PORT", "8012"))
-DEFAULT_SEASON_ID = os.getenv("QBK_STANDINGS_DEFAULT_SEASON_ID", "104")
-DEFAULT_SEASON_LABEL = os.getenv("QBK_STANDINGS_DEFAULT_SEASON_LABEL", "Spring 2026")
+DEFAULT_SEASON_ID = os.getenv("QBK_STANDINGS_DEFAULT_SEASON_ID", "106")
+DEFAULT_SEASON_LABEL = os.getenv("QBK_STANDINGS_DEFAULT_SEASON_LABEL", "Late Spring Leagues")
 CACHE_TTL_SECONDS = int(os.getenv("QBK_STANDINGS_CACHE_TTL", "180"))
 PAGE_SIZE = 500
 DAY_ORDER = {

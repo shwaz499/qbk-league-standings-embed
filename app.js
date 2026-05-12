@@ -1,9 +1,10 @@
 (() => {
   const params = new URLSearchParams(window.location.search);
-  const seasonId = params.get("season_id") || "104";
-  const seasonLabelOverride = params.get("season_label") || "Spring 2026";
+  const seasonId = params.get("season_id") || "106";
+  const seasonLabelOverride = params.get("season_label") || "Late Spring Leagues";
   const hideSunday = params.get("hide_sunday") !== "0";
   const dedupe = params.get("dedupe") !== "0";
+  const visibleLeagueTitles = new Set(["Monday 4s"]);
 
   const els = {
     standingsGrid: document.getElementById("standings-grid"),
@@ -44,6 +45,11 @@
     return fragment;
   }
 
+  function formatWidgetTitle(seasonLabel) {
+    const label = seasonLabel || seasonLabelOverride;
+    return /leagues?$/i.test(label) ? `${label} Standings` : `${label} League Standings`;
+  }
+
   async function fetchStaticStandings() {
     const staticUrl = new URL(`./data/standings-${seasonId}.json`, window.location.href);
     const response = await fetch(staticUrl, { cache: "no-store" });
@@ -79,10 +85,12 @@
       }
 
       if (els.widgetTitle) {
-        els.widgetTitle.textContent = `${payload.season_label || seasonLabelOverride} League Standings`;
+        els.widgetTitle.textContent = formatWidgetTitle(payload.season_label);
       }
 
-      if (!payload.leagues || !payload.leagues.length) {
+      payload.leagues = (payload.leagues || []).filter((league) => visibleLeagueTitles.has(league.title));
+
+      if (!payload.leagues.length) {
         renderEmpty("No leagues returned for this season.");
         return;
       }
