@@ -10,7 +10,7 @@ from server import CLIENT
 PROJECT_DIR = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_DIR / "data"
 SEASONS = [
-    ("106", "Late Spring Leagues"),
+    ("106", "Late Spring 2026"),
 ]
 VISIBLE_LEAGUE_TITLES = {"Monday 4s"}
 

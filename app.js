@@ -1,7 +1,8 @@
 (() => {
   const params = new URLSearchParams(window.location.search);
-  const seasonId = params.get("season_id") || "106";
-  const seasonLabelOverride = params.get("season_label") || "Late Spring Leagues";
+  const allowSeasonOverride = params.get("allow_season_override") === "1";
+  const seasonId = allowSeasonOverride ? params.get("season_id") || "106" : "106";
+  const seasonLabelOverride = allowSeasonOverride ? params.get("season_label") || "Late Spring 2026" : "Late Spring 2026";
   const hideSunday = params.get("hide_sunday") !== "0";
   const dedupe = params.get("dedupe") !== "0";
   const visibleLeagueTitles = new Set(["Monday 4s"]);
