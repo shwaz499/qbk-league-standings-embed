@@ -131,7 +131,7 @@ class DashClient:
 
         return httpx.Client(
             base_url=API_BASE,
-            timeout=30.0,
+            timeout=120.0,
             verify=verify,
             headers={
                 "Accept": "application/vnd.api+json",
@@ -275,7 +275,7 @@ class DashClient:
             requests.append(("hteam_id", team_id))
             requests.append(("vteam_id", team_id))
 
-        with ThreadPoolExecutor(max_workers=min(16, max(1, len(requests)))) as pool:
+        with ThreadPoolExecutor(max_workers=min(6, max(1, len(requests)))) as pool:
             future_map = {
                 pool.submit(self._fetch_events_for_team_filter, filter_key, team_id): (filter_key, team_id)
                 for filter_key, team_id in requests
@@ -353,7 +353,7 @@ class DashClient:
             return payload
 
         leagues = self._fetch_leagues(season_id)
-        with ThreadPoolExecutor(max_workers=min(8, max(1, len(leagues)))) as pool:
+        with ThreadPoolExecutor(max_workers=min(4, max(1, len(leagues)))) as pool:
             futures = [pool.submit(self._compute_league_standings, league, dedupe) for league in leagues]
             league_payloads = [future.result() for future in futures]
 
