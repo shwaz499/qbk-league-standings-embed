@@ -12,7 +12,7 @@ DATA_DIR = PROJECT_DIR / "data"
 SEASONS = [
     ("106", "Late Spring 2026"),
 ]
-VISIBLE_LEAGUE_TITLES = {"Monday 4s"}
+VISIBLE_LEAGUE_TITLES = {"Monday 4s", "Thursday 6s"}
 
 
 def main() -> None:

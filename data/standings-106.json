@@ -1,7 +1,7 @@
 {
   "season_id": "106",
   "season_label": "Late Spring 2026",
-  "generated_at": 1779193030,
+  "generated_at": 1779452905,
   "cached": false,
   "leagues": [
     {
@@ -128,6 +128,68 @@
           "win_pct": 0.0,
           "win_pct_display": "0.000",
           "diff": -6,
+          "gp": 2
+        }
+      ]
+    },
+    {
+      "league_id": "360",
+      "title": "Thursday 6s",
+      "source_name": "Spring - Recreational - Coed - 6x6 - Thurs",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9299",
+          "team_name": "Irish Setters",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 2,
+          "team_id": "9191",
+          "team_name": "Sand-ra Bullock",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "9381",
+          "team_name": "Life's A Beach",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "9193",
+          "team_name": "Overserved",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "9028",
+          "team_name": "Set It and Forget It",
+          "w": 0,
+          "l": 2,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -4,
           "gp": 2
         }
       ]

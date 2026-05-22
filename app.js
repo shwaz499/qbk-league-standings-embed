@@ -5,7 +5,7 @@
   const seasonLabelOverride = allowSeasonOverride ? params.get("season_label") || "Late Spring 2026" : "Late Spring 2026";
   const hideSunday = params.get("hide_sunday") !== "0";
   const dedupe = params.get("dedupe") !== "0";
-  const visibleLeagueTitles = new Set(["Monday 4s"]);
+  const visibleLeagueTitles = new Set(["Monday 4s", "Thursday 6s"]);
 
   const els = {
     standingsGrid: document.getElementById("standings-grid"),

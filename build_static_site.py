@@ -13,6 +13,12 @@ FILES_TO_COPY = [
     "app.js",
     "styles.css",
     "widget-overrides.css",
+    "tv.js",
+    "tv-monday-4s.html",
+    "tv-tuesday-6s.html",
+    "tv-wednesday-4s.html",
+    "tv-thursday-4s.html",
+    "tv-thursday-6s.html",
 ]
 
 
