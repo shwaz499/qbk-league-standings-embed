@@ -1,7 +1,7 @@
 {
   "season_id": "106",
   "season_label": "Late Spring 2026",
-  "generated_at": 1779452905,
+  "generated_at": 1779891547,
   "cached": false,
   "leagues": [
     {
@@ -34,7 +34,7 @@
         {
           "rank": 3,
           "team_id": "9201",
-          "team_name": "Sandy Bud e\u2019s",
+          "team_name": "Sandy Bud e's",
           "w": 2,
           "l": 0,
           "win_pct": 1.0,
@@ -88,17 +88,6 @@
         },
         {
           "rank": 8,
-          "team_id": "9199",
-          "team_name": "Sandy Bud e's",
-          "w": 0,
-          "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
-        },
-        {
-          "rank": 9,
           "team_id": "9194",
           "team_name": "The Spiked Seltzers",
           "w": 0,
@@ -109,7 +98,7 @@
           "gp": 2
         },
         {
-          "rank": 10,
+          "rank": 9,
           "team_id": "9304",
           "team_name": "Volleyamorous",
           "w": 0,
@@ -120,7 +109,7 @@
           "gp": 2
         },
         {
-          "rank": 11,
+          "rank": 10,
           "team_id": "9303",
           "team_name": "Breaded Chicken",
           "w": 0,

@@ -43,6 +43,7 @@ SIZE_ORDER = {"4s": 1, "6s": 2, "2s": 3, "": 9}
 
 def normalize_team_name(name: str | None) -> str:
     decoded = urllib.parse.unquote_plus((name or "").strip())
+    decoded = decoded.replace("\u2019", "'").replace("\u2018", "'")
     decoded = re.sub(r"\s+", " ", decoded)
     return decoded
 
