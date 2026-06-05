@@ -1,7 +1,7 @@
 {
   "season_id": "106",
   "season_label": "Late Spring 2026",
-  "generated_at": 1780401775,
+  "generated_at": 1780660959,
   "cached": false,
   "leagues": [
     {
@@ -128,58 +128,58 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "9191",
-          "team_name": "Sand-ra Bullock",
-          "w": 2,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 6,
-          "gp": 2
+          "team_id": "9299",
+          "team_name": "Irish Setters",
+          "w": 3,
+          "l": 1,
+          "win_pct": 0.75,
+          "win_pct_display": "0.750",
+          "diff": 4,
+          "gp": 4
         },
         {
           "rank": 2,
-          "team_id": "9299",
-          "team_name": "Irish Setters",
+          "team_id": "9381",
+          "team_name": "Life's A Beach",
           "w": 2,
           "l": 1,
           "win_pct": 0.667,
           "win_pct_display": "0.667",
-          "diff": 3,
+          "diff": 1,
           "gp": 3
         },
         {
           "rank": 3,
-          "team_id": "9381",
-          "team_name": "Life's A Beach",
-          "w": 1,
+          "team_id": "9193",
+          "team_name": "Overserved",
+          "w": 2,
           "l": 1,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 2
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": -1,
+          "gp": 3
         },
         {
           "rank": 4,
-          "team_id": "9193",
-          "team_name": "Overserved",
-          "w": 1,
-          "l": 1,
+          "team_id": "9191",
+          "team_name": "Sand-ra Bullock",
+          "w": 2,
+          "l": 2,
           "win_pct": 0.5,
           "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 2
+          "diff": 4,
+          "gp": 4
         },
         {
           "rank": 5,
           "team_id": "9028",
           "team_name": "Set It and Forget It",
           "w": 0,
-          "l": 3,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -7,
-          "gp": 3
+          "diff": -8,
+          "gp": 4
         }
       ]
     }
