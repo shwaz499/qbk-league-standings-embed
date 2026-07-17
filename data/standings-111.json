@@ -1,0 +1,212 @@
+{
+  "season_id": "111",
+  "season_label": "2026 Summer Leagues",
+  "generated_at": 1784290139,
+  "cached": false,
+  "leagues": [
+    {
+      "league_id": "379",
+      "title": "Monday 4s",
+      "source_name": "Summer - Int - Coed - 4x4 - Mondays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9546",
+          "team_name": "Breaded Chicken",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 2,
+          "team_id": "9547",
+          "team_name": "How I Set Your Mother",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "9545",
+          "team_name": "Some Spike it Hot",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "9664",
+          "team_name": "Barbara Strei-sand",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "9667",
+          "team_name": "Monday - Free Agents (2)",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "9544",
+          "team_name": "Aaah Jorilla",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 7,
+          "team_id": "9501",
+          "team_name": "Bing Bong",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 8,
+          "team_id": "9495",
+          "team_name": "Free Agent Team - Mon Int",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        }
+      ]
+    },
+    {
+      "league_id": "378",
+      "title": "Tuesday 6s",
+      "source_name": "Summer - Recreational - Coed - 6x6 - Tuesdays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9494",
+          "team_name": "Free Agent Team - Tues Rec",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        }
+      ]
+    },
+    {
+      "league_id": "381",
+      "title": "Wednesday 4s",
+      "source_name": "Summer - Int - Coed - 4x4 - Wednesdays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9497",
+          "team_name": "Free Agent Team - Wed Int",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        }
+      ]
+    },
+    {
+      "league_id": "380",
+      "title": "Thursday 6s",
+      "source_name": "Summer - Recreational - Coed - 6x6 - Thurs",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "9743",
+          "team_name": "Beachslap",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 2,
+          "team_id": "9666",
+          "team_name": "Irish Setters",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "9668",
+          "team_name": "that's what she set",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "9669",
+          "team_name": "Sets On the Beach",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "9496",
+          "team_name": "Ace Holes",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "9744",
+          "team_name": "Third Thursday Free Agent Team",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        }
+      ]
+    }
+  ]
+}

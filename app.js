@@ -1,11 +1,11 @@
 (() => {
   const params = new URLSearchParams(window.location.search);
   const allowSeasonOverride = params.get("allow_season_override") === "1";
-  const seasonId = allowSeasonOverride ? params.get("season_id") || "106" : "106";
-  const seasonLabelOverride = allowSeasonOverride ? params.get("season_label") || "Late Spring 2026" : "Late Spring 2026";
+  const seasonId = allowSeasonOverride ? params.get("season_id") || "111" : "111";
+  const seasonLabelOverride = allowSeasonOverride ? params.get("season_label") || "2026 Summer Leagues" : "2026 Summer Leagues";
   const hideSunday = params.get("hide_sunday") !== "0";
   const dedupe = params.get("dedupe") !== "0";
-  const visibleLeagueTitles = new Set(["Monday 4s", "Thursday 6s"]);
+  const visibleLeagueTitles = new Set(["Monday 4s", "Tuesday 6s", "Wednesday 4s", "Thursday 6s"]);
 
   const els = {
     standingsGrid: document.getElementById("standings-grid"),

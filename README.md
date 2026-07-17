@@ -1,6 +1,6 @@
 # QBK League Standings Embed
 
-Live Late Spring standings widget for QBK, built for local testing first and Wix embedding second.
+Live QBK Summer Leagues standings widget, built for local testing first and Wix embedding second.
 
 ## Run locally
 From `/Users/joshschwartz/Documents/New project/qbk-league-standings-embed`:
@@ -21,15 +21,15 @@ The server uses:
 
 ## Query params
 Supported on both `index.html` and `widget.html`:
-- `season_id=106`
-- `season_label=Late Spring 2026`
+- `season_id=111`
+- `season_label=2026 Summer Leagues`
 - `hide_sunday=1`
 - `dedupe=1`
 
 Example:
 
 ```text
-http://localhost:8012/widget.html?season_id=106&season_label=Late%20Spring%202026&hide_sunday=1&dedupe=1
+http://localhost:8012/widget.html?season_id=111&season_label=2026%20Summer%20Leagues&hide_sunday=1&dedupe=1
 ```
 
 ## Wix embed
@@ -37,7 +37,7 @@ Once deployed publicly, use:
 
 ```html
 <iframe
-  src="https://YOUR-DOMAIN/widget.html?season_id=106&season_label=Late%20Spring%202026&hide_sunday=1&dedupe=1"
+  src="https://YOUR-DOMAIN/widget.html?season_id=111&season_label=2026%20Summer%20Leagues&hide_sunday=1&dedupe=1"
   title="QBK League Standings"
   width="100%"
   height="1800"
