@@ -39,6 +39,11 @@ DAY_ORDER = {
     "Sunday": 7,
 }
 SIZE_ORDER = {"4s": 1, "6s": 2, "2s": 3, "": 9}
+TEAM_NAME_OVERRIDES = {
+    "Monday - Free Agents (2)": "Free Agent Team 2",
+    "Free Agent Team - Mon Int": "Free Agent Team 1",
+    "Third Thursday Free Agent Team": "Free Agent Team 3",
+}
 
 
 def normalize_team_name(name: str | None) -> str:
@@ -103,7 +108,7 @@ class TeamStanding:
         return {
             "rank": rank,
             "team_id": self.team_id,
-            "team_name": self.team_name,
+            "team_name": TEAM_NAME_OVERRIDES.get(self.team_name, self.team_name),
             "w": self.wins,
             "l": self.losses,
             "win_pct": round(self.win_pct, 3),

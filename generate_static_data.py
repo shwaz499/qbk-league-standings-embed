@@ -12,7 +12,12 @@ DATA_DIR = PROJECT_DIR / "data"
 SEASONS = [
     ("111", "2026 Summer Leagues"),
 ]
-VISIBLE_LEAGUE_TITLES = {"Monday 4s", "Tuesday 6s", "Wednesday 4s", "Thursday 6s"}
+VISIBLE_LEAGUE_TITLES = {"Monday 4s", "Thursday 6s"}
+TEAM_NAME_OVERRIDES = {
+    "Monday - Free Agents (2)": "Free Agent Team 2",
+    "Free Agent Team - Mon Int": "Free Agent Team 1",
+    "Third Thursday Free Agent Team": "Free Agent Team 3",
+}
 
 
 def main() -> None:
@@ -30,6 +35,11 @@ def main() -> None:
             league for league in payload.get("leagues", [])
             if league.get("title") in VISIBLE_LEAGUE_TITLES
         ]
+        for league in payload["leagues"]:
+            for team in league.get("teams", []):
+                team["team_name"] = TEAM_NAME_OVERRIDES.get(
+                    team.get("team_name"), team.get("team_name")
+                )
         payload["cached"] = False
         output_path = DATA_DIR / f"standings-{season_id}.json"
         output_path.write_text(json.dumps(payload, indent=2))

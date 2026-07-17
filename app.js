@@ -5,7 +5,7 @@
   const seasonLabelOverride = allowSeasonOverride ? params.get("season_label") || "2026 Summer Leagues" : "2026 Summer Leagues";
   const hideSunday = params.get("hide_sunday") !== "0";
   const dedupe = params.get("dedupe") !== "0";
-  const visibleLeagueTitles = new Set(["Monday 4s", "Tuesday 6s", "Wednesday 4s", "Thursday 6s"]);
+  const visibleLeagueTitles = new Set(["Monday 4s", "Thursday 6s"]);
 
   const els = {
     standingsGrid: document.getElementById("standings-grid"),

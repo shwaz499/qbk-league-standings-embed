@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1784290139,
+  "generated_at": 1784291707,
   "cached": false,
   "leagues": [
     {
@@ -56,7 +56,7 @@
         {
           "rank": 5,
           "team_id": "9667",
-          "team_name": "Monday - Free Agents (2)",
+          "team_name": "Free Agent Team 2",
           "w": 0,
           "l": 1,
           "win_pct": 0.0,
@@ -89,49 +89,13 @@
         {
           "rank": 8,
           "team_id": "9495",
-          "team_name": "Free Agent Team - Mon Int",
+          "team_name": "Free Agent Team 1",
           "w": 0,
           "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
           "diff": -3,
           "gp": 1
-        }
-      ]
-    },
-    {
-      "league_id": "378",
-      "title": "Tuesday 6s",
-      "source_name": "Summer - Recreational - Coed - 6x6 - Tuesdays",
-      "teams": [
-        {
-          "rank": 1,
-          "team_id": "9494",
-          "team_name": "Free Agent Team - Tues Rec",
-          "w": 0,
-          "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
-        }
-      ]
-    },
-    {
-      "league_id": "381",
-      "title": "Wednesday 4s",
-      "source_name": "Summer - Int - Coed - 4x4 - Wednesdays",
-      "teams": [
-        {
-          "rank": 1,
-          "team_id": "9497",
-          "team_name": "Free Agent Team - Wed Int",
-          "w": 0,
-          "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
         }
       ]
     },
@@ -198,7 +162,7 @@
         {
           "rank": 6,
           "team_id": "9744",
-          "team_name": "Third Thursday Free Agent Team",
+          "team_name": "Free Agent Team 3",
           "w": 0,
           "l": 1,
           "win_pct": 0.0,
