@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1784291707,
+  "generated_at": 1784319370,
   "cached": false,
   "leagues": [
     {
@@ -162,7 +162,7 @@
         {
           "rank": 6,
           "team_id": "9744",
-          "team_name": "Free Agent Team 3",
+          "team_name": "The Serveivors",
           "w": 0,
           "l": 1,
           "win_pct": 0.0,
