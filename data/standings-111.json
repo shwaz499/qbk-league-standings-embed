@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1784319370,
+  "generated_at": 1784635363,
   "cached": false,
   "leagues": [
     {
@@ -13,89 +13,89 @@
           "rank": 1,
           "team_id": "9546",
           "team_name": "Breaded Chicken",
-          "w": 1,
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "9547",
-          "team_name": "How I Set Your Mother",
-          "w": 1,
+          "team_id": "9545",
+          "team_name": "Some Spike it Hot",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "9545",
-          "team_name": "Some Spike it Hot",
+          "team_id": "9544",
+          "team_name": "Aaah Jorilla",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "9664",
-          "team_name": "Barbara Strei-sand",
+          "team_id": "9547",
+          "team_name": "How I Set Your Mother",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 5,
-          "team_id": "9667",
-          "team_name": "Free Agent Team 2",
-          "w": 0,
+          "team_id": "9495",
+          "team_name": "Shai-Hulud",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "9544",
-          "team_name": "Aaah Jorilla",
-          "w": 0,
+          "team_id": "9664",
+          "team_name": "Barbara Strei-sand",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 7,
-          "team_id": "9501",
-          "team_name": "Bing Bong",
+          "team_id": "9667",
+          "team_name": "Tequila SunSets",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         },
         {
           "rank": 8,
-          "team_id": "9495",
-          "team_name": "Free Agent Team 1",
+          "team_id": "9501",
+          "team_name": "Bing Bong",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         }
       ]
     },
