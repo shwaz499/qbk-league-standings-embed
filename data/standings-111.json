@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1784635363,
+  "generated_at": 1784893423,
   "cached": false,
   "leagues": [
     {
@@ -106,69 +106,69 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "9743",
-          "team_name": "Beachslap",
-          "w": 1,
+          "team_id": "9666",
+          "team_name": "Irish Setters",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "9666",
-          "team_name": "Irish Setters",
-          "w": 1,
+          "team_id": "9668",
+          "team_name": "that's what she set",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "9668",
-          "team_name": "that's what she set",
+          "team_id": "9743",
+          "team_name": "Beachslap",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "9669",
-          "team_name": "Sets On the Beach",
-          "w": 0,
+          "team_id": "9744",
+          "team_name": "The Serveivors",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 5,
           "team_id": "9496",
           "team_name": "Ace Holes",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "9744",
-          "team_name": "The Serveivors",
+          "team_id": "9669",
+          "team_name": "Sets On the Beach",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         }
       ]
     }
