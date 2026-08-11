@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1786086103,
+  "generated_at": 1786431749,
   "cached": false,
   "leagues": [
     {
@@ -13,89 +13,89 @@
           "rank": 1,
           "team_id": "9545",
           "team_name": "Some Spike it Hot",
-          "w": 4,
+          "w": 5,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 10,
-          "gp": 4
+          "diff": 13,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "9546",
           "team_name": "Breaded Chicken",
-          "w": 3,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.75,
-          "win_pct_display": "0.750",
-          "diff": 6,
-          "gp": 4
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 7,
+          "gp": 5
         },
         {
           "rank": 3,
           "team_id": "9547",
           "team_name": "How I Set Your Mother",
-          "w": 2,
+          "w": 3,
           "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 2,
-          "gp": 4
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 5,
+          "gp": 5
         },
         {
           "rank": 4,
           "team_id": "9495",
           "team_name": "Shai-Hulud",
-          "w": 2,
+          "w": 3,
           "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 4
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 3,
+          "gp": 5
         },
         {
           "rank": 5,
           "team_id": "9667",
           "team_name": "Tequila SunSets",
           "w": 2,
-          "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 4
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -3,
+          "gp": 5
         },
         {
           "rank": 6,
           "team_id": "9664",
           "team_name": "Barbara Strei-sand",
           "w": 2,
-          "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 4
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -5,
+          "gp": 5
         },
         {
           "rank": 7,
           "team_id": "9544",
           "team_name": "Aaah Jorilla",
           "w": 1,
-          "l": 3,
-          "win_pct": 0.25,
-          "win_pct_display": "0.250",
-          "diff": -4,
-          "gp": 4
+          "l": 4,
+          "win_pct": 0.2,
+          "win_pct_display": "0.200",
+          "diff": -5,
+          "gp": 5
         },
         {
           "rank": 8,
           "team_id": "9501",
           "team_name": "Bing Bong",
           "w": 0,
-          "l": 4,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -12,
-          "gp": 4
+          "diff": -15,
+          "gp": 5
         }
       ]
     },
