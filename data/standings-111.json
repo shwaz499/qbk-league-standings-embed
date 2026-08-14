@@ -1,7 +1,7 @@
 {
   "season_id": "111",
   "season_label": "2026 Summer Leagues",
-  "generated_at": 1786431749,
+  "generated_at": 1786690963,
   "cached": false,
   "leagues": [
     {
@@ -108,67 +108,67 @@
           "rank": 1,
           "team_id": "9668",
           "team_name": "that's what she set",
-          "w": 4,
+          "w": 5,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 10,
-          "gp": 4
+          "diff": 13,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "9666",
           "team_name": "Irish Setters",
-          "w": 3,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.75,
-          "win_pct_display": "0.750",
-          "diff": 4,
-          "gp": 4
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 5,
+          "gp": 5
         },
         {
           "rank": 3,
-          "team_id": "9669",
-          "team_name": "Sets On the Beach",
-          "w": 2,
+          "team_id": "9743",
+          "team_name": "Beachslap",
+          "w": 3,
           "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 2,
-          "gp": 4
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 1,
+          "gp": 5
         },
         {
           "rank": 4,
-          "team_id": "9743",
-          "team_name": "Beachslap",
+          "team_id": "9669",
+          "team_name": "Sets On the Beach",
           "w": 2,
-          "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 4
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": 1,
+          "gp": 5
         },
         {
           "rank": 5,
           "team_id": "9744",
           "team_name": "The Serveivors",
           "w": 1,
-          "l": 3,
-          "win_pct": 0.25,
-          "win_pct_display": "0.250",
-          "diff": -6,
-          "gp": 4
+          "l": 4,
+          "win_pct": 0.2,
+          "win_pct_display": "0.200",
+          "diff": -9,
+          "gp": 5
         },
         {
           "rank": 6,
           "team_id": "9496",
           "team_name": "Ace Holes",
           "w": 0,
-          "l": 4,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -10,
-          "gp": 4
+          "diff": -11,
+          "gp": 5
         }
       ]
     }
