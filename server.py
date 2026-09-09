@@ -245,11 +245,27 @@ class DashClient:
         teams: list[dict[str, str]] = []
         for row in rows:
             attrs = row.get("attributes", {})
+            if not self._is_active_team(attrs):
+                continue
             teams.append({
                 "id": str(row.get("id")),
                 "name": normalize_team_name(str(attrs.get("name") or attrs.get("title") or row.get("id"))),
             })
         return teams
+
+    @staticmethod
+    def _is_active_team(attrs: dict[str, Any]) -> bool:
+        inactive_value = attrs.get("inactive")
+        if isinstance(inactive_value, bool):
+            if inactive_value:
+                return False
+        elif inactive_value is not None:
+            inactive_text = str(inactive_value).strip().casefold()
+            if inactive_text in {"1", "true", "yes", "y", "inactive"}:
+                return False
+
+        status = str(attrs.get("status") or "").strip().casefold()
+        return status not in {"inactive", "archived", "deleted", "cancelled", "canceled"}
 
     def _fetch_events_for_team_filter(self, filter_key: str, team_id: str) -> list[dict[str, Any]]:
         return self._paged_rows(
