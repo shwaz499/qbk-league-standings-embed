@@ -1,7 +1,7 @@
 (() => {
   const body = document.body;
-  const seasonId = body.dataset.seasonId || "111";
-  const seasonLabel = body.dataset.seasonLabel || "2026 Summer Leagues";
+  const seasonId = body.dataset.seasonId || "112";
+  const seasonLabel = body.dataset.seasonLabel || "2026 Fall Leagues";
   const leagueTitle = body.dataset.leagueTitle || "";
   const hideSunday = body.dataset.hideSunday !== "0";
   const dedupe = body.dataset.dedupe !== "0";

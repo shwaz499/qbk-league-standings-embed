@@ -10,9 +10,9 @@ from server import CLIENT
 PROJECT_DIR = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_DIR / "data"
 SEASONS = [
-    ("111", "2026 Summer Leagues"),
+    ("112", "2026 Fall Leagues"),
 ]
-VISIBLE_LEAGUE_TITLES = {"Monday 4s", "Thursday 6s"}
+VISIBLE_LEAGUE_TITLES = {"Monday 4s", "Tuesday 6s", "Wednesday 4s", "Thursday 6s"}
 TEAM_NAME_OVERRIDES = {
     "Monday - Free Agents (2)": "Free Agent Team 2",
     "Free Agent Team - Mon Int": "Free Agent Team 1",
