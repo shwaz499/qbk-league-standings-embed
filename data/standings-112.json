@@ -1,7 +1,7 @@
 {
   "season_id": "112",
   "season_label": "2026 Fall Leagues",
-  "generated_at": 1788961209,
+  "generated_at": 1789023712,
   "cached": false,
   "leagues": [
     {
@@ -214,89 +214,89 @@
           "rank": 1,
           "team_id": "10000",
           "team_name": "Cheeky Wailers",
-          "w": 0,
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 2,
           "team_id": "9748",
-          "team_name": "Free Agent Team - Wed Int",
-          "w": 0,
+          "team_name": "Dink Responsibly",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 3,
-          "team_id": "10003",
-          "team_name": "Serveza",
-          "w": 0,
+          "team_id": "10007",
+          "team_name": "Spikel B. Jordan",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 4,
-          "team_id": "10015",
-          "team_name": "Setting Ducks",
-          "w": 0,
+          "team_id": "10014",
+          "team_name": "Volley Llamas",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 5,
-          "team_id": "10007",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "10003",
+          "team_name": "Serveza",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 6,
-          "team_id": "10014",
-          "team_name": "Volley Llamas",
+          "team_id": "10015",
+          "team_name": "Setting Ducks",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 7,
           "team_id": "10008",
           "team_name": "Volo Vets",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 8,
           "team_id": "10020",
-          "team_name": "Wednesday Free Agents (2)",
+          "team_name": "Take it easy on us",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         }
       ]
     },
@@ -353,6 +353,17 @@
           "rank": 5,
           "team_id": "10001",
           "team_name": "Overserved",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 6,
+          "team_id": "10025",
+          "team_name": "Thursday Free Agent Team (2)",
           "w": 0,
           "l": 0,
           "win_pct": 0.0,
