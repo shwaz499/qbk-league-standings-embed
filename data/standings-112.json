@@ -1,7 +1,7 @@
 {
   "season_id": "112",
   "season_label": "2026 Fall Leagues",
-  "generated_at": 1789023712,
+  "generated_at": 1789110179,
   "cached": false,
   "leagues": [
     {
@@ -33,6 +33,17 @@
         },
         {
           "rank": 3,
+          "team_id": "10115",
+          "team_name": "Astoria",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 4,
           "team_id": "9843",
           "team_name": "Breaded Chicken",
           "w": 0,
@@ -43,7 +54,7 @@
           "gp": 0
         },
         {
-          "rank": 4,
+          "rank": 5,
           "team_id": "9746",
           "team_name": "Free Agent Team 1",
           "w": 0,
@@ -54,7 +65,7 @@
           "gp": 0
         },
         {
-          "rank": 5,
+          "rank": 6,
           "team_id": "9999",
           "team_name": "Peace Love Bucees",
           "w": 0,
@@ -65,7 +76,7 @@
           "gp": 0
         },
         {
-          "rank": 6,
+          "rank": 7,
           "team_id": "10023",
           "team_name": "Plummy",
           "w": 0,
@@ -76,7 +87,7 @@
           "gp": 0
         },
         {
-          "rank": 7,
+          "rank": 8,
           "team_id": "10005",
           "team_name": "Savages",
           "w": 0,
@@ -87,7 +98,7 @@
           "gp": 0
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team_id": "9935",
           "team_name": "Shai-Hulu's",
           "w": 0,
@@ -98,7 +109,7 @@
           "gp": 0
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team_id": "10006",
           "team_name": "Spikel B. Jordan",
           "w": 0,
@@ -109,7 +120,7 @@
           "gp": 0
         },
         {
-          "rank": 10,
+          "rank": 11,
           "team_id": "9931",
           "team_name": "Tequila Sunsets",
           "w": 0,
@@ -120,7 +131,7 @@
           "gp": 0
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team_id": "9934",
           "team_name": "That's what she set",
           "w": 0,
@@ -131,7 +142,7 @@
           "gp": 0
         },
         {
-          "rank": 12,
+          "rank": 13,
           "team_id": "10016",
           "team_name": "The Big C",
           "w": 0,
@@ -142,7 +153,7 @@
           "gp": 0
         },
         {
-          "rank": 13,
+          "rank": 14,
           "team_id": "9936",
           "team_name": "The Leftovers",
           "w": 0,
@@ -307,69 +318,69 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "9747",
-          "team_name": "Free Agent Team - Thurs Rec",
-          "w": 0,
+          "team_id": "10025",
+          "team_name": "Catherine Zeta-Jones Beach",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 2,
-          "team_id": "10002",
-          "team_name": "Gnomes",
-          "w": 0,
+          "team_id": "9845",
+          "team_name": "Here for Beer 20.0",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 3,
-          "team_id": "9845",
-          "team_name": "Here for Beer 20.0",
-          "w": 0,
+          "team_id": "10001",
+          "team_name": "Overserved",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
         },
         {
           "rank": 4,
-          "team_id": "9933",
-          "team_name": "Oops I hit it again",
+          "team_id": "10002",
+          "team_name": "Gnomes",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 5,
-          "team_id": "10001",
-          "team_name": "Overserved",
+          "team_id": "9933",
+          "team_name": "Oops I hit it again",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -1,
+          "gp": 1
         },
         {
           "rank": 6,
-          "team_id": "10025",
-          "team_name": "Thursday Free Agent Team (2)",
+          "team_id": "9747",
+          "team_name": "Don't Set Me Up",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         }
       ]
     }
