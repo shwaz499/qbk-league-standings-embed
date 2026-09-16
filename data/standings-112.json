@@ -1,7 +1,7 @@
 {
   "season_id": "112",
   "season_label": "2026 Fall Leagues",
-  "generated_at": 1789455719,
+  "generated_at": 1789542158,
   "cached": false,
   "leagues": [
     {
@@ -78,7 +78,7 @@
         {
           "rank": 7,
           "team_id": "9935",
-          "team_name": "Shai-Hulu's",
+          "team_name": "Shai-Hulud",
           "w": 1,
           "l": 0,
           "win_pct": 1.0,
@@ -194,47 +194,47 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "10004",
-          "team_name": "Blowfish",
-          "w": 1,
+          "team_id": "10019",
+          "team_name": "Los Sandcochos",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "10019",
-          "team_name": "Los Sandcochos",
+          "team_id": "10004",
+          "team_name": "Blowfish",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "9929",
-          "team_name": "BeginnersLuck",
-          "w": 0,
+          "team_id": "9745",
+          "team_name": "Serveasy",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "9745",
-          "team_name": "Free Agent Team - Tues Rec",
+          "team_id": "9929",
+          "team_name": "Serving Face",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -2,
+          "gp": 2
         }
       ]
     },
