@@ -1,7 +1,7 @@
 {
   "season_id": "112",
   "season_label": "2026 Fall Leagues",
-  "generated_at": 1789645133,
+  "generated_at": 1789757724,
   "cached": false,
   "leagues": [
     {
@@ -340,69 +340,69 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "10025",
-          "team_name": "Catherine Zeta-Jones Beach",
-          "w": 1,
+          "team_id": "10001",
+          "team_name": "Overserved",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 4,
+          "gp": 2
         },
         {
           "rank": 2,
-          "team_id": "9845",
-          "team_name": "Here for Beer 20.0",
+          "team_id": "10025",
+          "team_name": "Catherine Zeta-Jones Beach",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "10001",
-          "team_name": "Overserved",
+          "team_id": "10002",
+          "team_name": "Gnomes",
           "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "10002",
-          "team_name": "Gnomes",
-          "w": 0,
+          "team_id": "9845",
+          "team_name": "Here for Beer 20.0",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 5,
           "team_id": "9933",
           "team_name": "Oops I hit it again",
-          "w": 0,
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 0,
+          "gp": 2
         },
         {
           "rank": 6,
           "team_id": "9747",
           "team_name": "Don't Set Me Up",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         }
       ]
     }
