@@ -1,7 +1,7 @@
 {
   "season_id": "112",
   "season_label": "2026 Fall Leagues",
-  "generated_at": 1790060583,
+  "generated_at": 1790253901,
   "cached": false,
   "leagues": [
     {
@@ -196,45 +196,45 @@
           "rank": 1,
           "team_id": "10019",
           "team_name": "Los Sandcochos",
-          "w": 2,
+          "w": 3,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 2,
-          "gp": 2
+          "diff": 5,
+          "gp": 3
         },
         {
           "rank": 2,
           "team_id": "10004",
           "team_name": "Blowfish",
-          "w": 1,
+          "w": 2,
           "l": 1,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 2,
-          "gp": 2
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 5,
+          "gp": 3
         },
         {
           "rank": 3,
           "team_id": "9745",
           "team_name": "Serveasy",
           "w": 1,
-          "l": 1,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 2
+          "l": 2,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -5,
+          "gp": 3
         },
         {
           "rank": 4,
           "team_id": "9929",
           "team_name": "Serving Face",
           "w": 0,
-          "l": 2,
+          "l": 3,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -2,
-          "gp": 2
+          "diff": -5,
+          "gp": 3
         }
       ]
     },
@@ -247,89 +247,89 @@
           "rank": 1,
           "team_id": "10000",
           "team_name": "Cheeky Wailers",
-          "w": 2,
+          "w": 3,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 6,
-          "gp": 2
+          "diff": 9,
+          "gp": 3
         },
         {
           "rank": 2,
-          "team_id": "10014",
-          "team_name": "Volley Llamas",
+          "team_id": "10003",
+          "team_name": "Serveza",
           "w": 2,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 4,
-          "gp": 2
+          "l": 1,
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 3,
+          "gp": 3
         },
         {
           "rank": 3,
-          "team_id": "9748",
-          "team_name": "Dink Responsibly",
+          "team_id": "10007",
+          "team_name": "Spikel B. Jordan",
           "w": 2,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 2,
-          "gp": 2
+          "l": 1,
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 3,
+          "gp": 3
         },
         {
           "rank": 4,
-          "team_id": "10003",
-          "team_name": "Serveza",
-          "w": 1,
+          "team_id": "10014",
+          "team_name": "Volley Llamas",
+          "w": 2,
           "l": 1,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 2
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": 1,
+          "gp": 3
         },
         {
           "rank": 5,
-          "team_id": "10007",
-          "team_name": "Spikel B. Jordan",
-          "w": 1,
+          "team_id": "9748",
+          "team_name": "Dink Responsibly",
+          "w": 2,
           "l": 1,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 2
+          "win_pct": 0.667,
+          "win_pct_display": "0.667",
+          "diff": -1,
+          "gp": 3
         },
         {
           "rank": 6,
           "team_id": "10015",
           "team_name": "Setting Ducks",
-          "w": 0,
+          "w": 1,
           "l": 2,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -2,
-          "gp": 2
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
+          "diff": -1,
+          "gp": 3
         },
         {
           "rank": 7,
-          "team_id": "10008",
-          "team_name": "Volo Vets",
-          "w": 0,
-          "l": 2,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -4,
-          "gp": 2
-        },
-        {
-          "rank": 8,
           "team_id": "10020",
           "team_name": "Take it easy on us",
           "w": 0,
-          "l": 2,
+          "l": 3,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -6,
-          "gp": 2
+          "diff": -7,
+          "gp": 3
+        },
+        {
+          "rank": 8,
+          "team_id": "10008",
+          "team_name": "Volo Vets",
+          "w": 0,
+          "l": 3,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -7,
+          "gp": 3
         }
       ]
     },
