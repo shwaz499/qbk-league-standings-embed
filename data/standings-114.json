@@ -1,0 +1,465 @@
+{
+  "season_id": "114",
+  "season_label": "2026 Late Fall Leagues",
+  "generated_at": 1793019760,
+  "cached": false,
+  "leagues": [
+    {
+      "league_id": "391",
+      "title": "Monday 4s",
+      "source_name": "Late Fall - Int - Coed - 4x4 - Mondays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "10394",
+          "team_name": "Aaah Joerillaz",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 2,
+          "team_id": "10409",
+          "team_name": "Amber Alert",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 3,
+          "team_id": "10406",
+          "team_name": "Bicoastal Blockers",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 4,
+          "team_id": "10292",
+          "team_name": "Breaded Chicken",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 5,
+          "team_id": "10198",
+          "team_name": "Free Agent Team 1",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 6,
+          "team_id": "10397",
+          "team_name": "Picklebacks",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 7,
+          "team_id": "10403",
+          "team_name": "Some Spike it Hot",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 8,
+          "team_id": "10286",
+          "team_name": "Spikel B. Jordan",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 9,
+          "team_id": "10398",
+          "team_name": "Tequila Sunsets",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 10,
+          "team_id": "10400",
+          "team_name": "That's what she set",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        }
+      ]
+    },
+    {
+      "league_id": "390",
+      "title": "Tuesday 6s",
+      "source_name": "Late Fall - Recreational - Coed - 6x6 - Tuesdays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "10297",
+          "team_name": "Blowfish",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 2,
+          "team_id": "10197",
+          "team_name": "Free Agent Team - Tues Rec",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 3,
+          "team_id": "10395",
+          "team_name": "Irish Setters",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 4,
+          "team_id": "10393",
+          "team_name": "Las Beachotas",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 5,
+          "team_id": "10408",
+          "team_name": "NEW YORK HITS",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 6,
+          "team_id": "10407",
+          "team_name": "Setsy and We Know It",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        }
+      ]
+    },
+    {
+      "league_id": "393",
+      "title": "Wednesday 4s",
+      "source_name": "Late Fall - Int - Coed - 4x4 - Wednesdays",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "10282",
+          "team_name": "I Thought This Was Tennis",
+          "w": 2,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 6,
+          "gp": 2
+        },
+        {
+          "rank": 2,
+          "team_id": "10203",
+          "team_name": "holy blockamole",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "10288",
+          "team_name": "Sand Doon",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "10396",
+          "team_name": "Spike Wazowskis",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "10202",
+          "team_name": "TITTIES",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "10404",
+          "team_name": "Wednesday Free Agents (2)",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
+        },
+        {
+          "rank": 7,
+          "team_id": "10399",
+          "team_name": "Can I get a bump?",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 8,
+          "team_id": "10386",
+          "team_name": "The Volleyballerz",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 9,
+          "team_id": "10405",
+          "team_name": "Alan Squared",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 10,
+          "team_id": "10387",
+          "team_name": "Cheeky Wailers",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 11,
+          "team_id": "10200",
+          "team_name": "Free Agent Team - Wed Int",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 12,
+          "team_id": "10402",
+          "team_name": "Kiss My Ace",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 13,
+          "team_id": "10284",
+          "team_name": "Setting Ducks",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 14,
+          "team_id": "10287",
+          "team_name": "Spikel B. Jordan",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 15,
+          "team_id": "10313",
+          "team_name": "VolleyLlamas",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
+        }
+      ]
+    },
+    {
+      "league_id": "392",
+      "title": "Thursday 6s",
+      "source_name": "Late Fall - Recreational - Coed - 6x6 - Thurs",
+      "teams": [
+        {
+          "rank": 1,
+          "team_id": "10293",
+          "team_name": "Oops I Hit it Again",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 2,
+          "team_id": "10401",
+          "team_name": "Overserved",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 3,
+          "team_id": "10283",
+          "team_name": "P.O.S.",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 4,
+          "team_id": "10289",
+          "team_name": "Setteritaville",
+          "w": 1,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 1,
+          "gp": 1
+        },
+        {
+          "rank": 5,
+          "team_id": "10290",
+          "team_name": "Calamitous Clams",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "10199",
+          "team_name": "Free Agent Team - Thurs Rec",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 7,
+          "team_id": "10391",
+          "team_name": "Gnomes",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        },
+        {
+          "rank": 8,
+          "team_id": "10390",
+          "team_name": "Here for Beer 21.0",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -1,
+          "gp": 1
+        }
+      ]
+    }
+  ]
+}
