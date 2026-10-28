@@ -1,7 +1,7 @@
 {
   "season_id": "114",
   "season_label": "2026 Late Fall Leagues",
-  "generated_at": 1793095421,
+  "generated_at": 1793181696,
   "cached": false,
   "leagues": [
     {
@@ -77,6 +77,17 @@
         },
         {
           "rank": 7,
+          "team_id": "10412",
+          "team_name": "Peace Love Buc-ee's",
+          "w": 0,
+          "l": 0,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": 0,
+          "gp": 0
+        },
+        {
+          "rank": 8,
           "team_id": "10397",
           "team_name": "Picklebacks",
           "w": 0,
@@ -87,7 +98,7 @@
           "gp": 0
         },
         {
-          "rank": 8,
+          "rank": 9,
           "team_id": "10411",
           "team_name": "Savages",
           "w": 0,
@@ -98,7 +109,7 @@
           "gp": 0
         },
         {
-          "rank": 9,
+          "rank": 10,
           "team_id": "10403",
           "team_name": "Some Spike it Hot",
           "w": 0,
@@ -109,7 +120,7 @@
           "gp": 0
         },
         {
-          "rank": 10,
+          "rank": 11,
           "team_id": "10286",
           "team_name": "Spikel B. Jordan",
           "w": 0,
@@ -120,7 +131,7 @@
           "gp": 0
         },
         {
-          "rank": 11,
+          "rank": 12,
           "team_id": "10398",
           "team_name": "Tequila Sunsets",
           "w": 0,
@@ -131,7 +142,7 @@
           "gp": 0
         },
         {
-          "rank": 12,
+          "rank": 13,
           "team_id": "10400",
           "team_name": "That's what she set",
           "w": 0,
@@ -152,67 +163,67 @@
           "rank": 1,
           "team_id": "10297",
           "team_name": "Blowfish",
-          "w": 0,
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 2,
-          "team_id": "10197",
-          "team_name": "Free Agent Team - Tues Rec",
-          "w": 0,
+          "team_id": "10395",
+          "team_name": "Irish Setters",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 3,
-          "team_id": "10395",
-          "team_name": "Irish Setters",
-          "w": 0,
+          "team_id": "10408",
+          "team_name": "NEW YORK HITS",
+          "w": 1,
           "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 3,
+          "gp": 1
         },
         {
           "rank": 4,
           "team_id": "10393",
           "team_name": "Las Beachotas",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
         },
         {
           "rank": 5,
-          "team_id": "10408",
-          "team_name": "NEW YORK HITS",
-          "w": 0,
-          "l": 0,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
-        },
-        {
-          "rank": 6,
           "team_id": "10407",
           "team_name": "Setsy and We Know It",
           "w": 0,
-          "l": 0,
+          "l": 1,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": 0,
-          "gp": 0
+          "diff": -3,
+          "gp": 1
+        },
+        {
+          "rank": 6,
+          "team_id": "10197",
+          "team_name": "Slam Dunk",
+          "w": 0,
+          "l": 1,
+          "win_pct": 0.0,
+          "win_pct_display": "0.000",
+          "diff": -3,
+          "gp": 1
         }
       ]
     },
