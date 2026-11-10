@@ -1,7 +1,7 @@
 {
   "season_id": "114",
   "season_label": "2026 Late Fall Leagues",
-  "generated_at": 1793962845,
+  "generated_at": 1794314136,
   "cached": false,
   "leagues": [
     {
@@ -11,190 +11,190 @@
       "teams": [
         {
           "rank": 1,
-          "team_id": "10394",
-          "team_name": "Aaah Joerillaz",
-          "w": 1,
+          "team_id": "10413",
+          "team_name": "Plummy",
+          "w": 3,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 7,
+          "gp": 3
         },
         {
           "rank": 2,
-          "team_id": "10409",
-          "team_name": "Amber Alert",
-          "w": 1,
+          "team_id": "10394",
+          "team_name": "Aaah Joerillaz",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 3,
-          "team_id": "10413",
-          "team_name": "Plummy",
-          "w": 1,
+          "team_id": "10409",
+          "team_name": "Amber Alert",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 4,
-          "team_id": "10411",
-          "team_name": "Savages",
-          "w": 1,
+          "team_id": "10403",
+          "team_name": "Some Spike it Hot",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 6,
+          "gp": 2
         },
         {
           "rank": 5,
-          "team_id": "10403",
-          "team_name": "Some Spike it Hot",
-          "w": 1,
+          "team_id": "10198",
+          "team_name": "The Misfits",
+          "w": 2,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 3,
-          "gp": 1
+          "diff": 2,
+          "gp": 2
         },
         {
           "rank": 6,
-          "team_id": "10292",
-          "team_name": "Breaded Chicken",
-          "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
-        },
-        {
-          "rank": 7,
-          "team_id": "10412",
-          "team_name": "Peace Love Buc-ee's",
-          "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
-        },
-        {
-          "rank": 8,
-          "team_id": "10198",
-          "team_name": "The Misfits",
-          "w": 1,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 1,
-          "gp": 1
-        },
-        {
-          "rank": 9,
-          "team_id": "10286",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "10410",
+          "team_name": "Leftovers",
           "w": 1,
           "l": 1,
           "win_pct": 0.5,
           "win_pct_display": "0.500",
-          "diff": 0,
+          "diff": 2,
+          "gp": 2
+        },
+        {
+          "rank": 7,
+          "team_id": "10411",
+          "team_name": "Savages",
+          "w": 1,
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": 2,
+          "gp": 2
+        },
+        {
+          "rank": 8,
+          "team_id": "10292",
+          "team_name": "Breaded Chicken",
+          "w": 1,
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
+        },
+        {
+          "rank": 9,
+          "team_id": "10416",
+          "team_name": "Humble World Domination",
+          "w": 1,
+          "l": 1,
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
           "gp": 2
         },
         {
           "rank": 10,
-          "team_id": "10406",
-          "team_name": "Bicoastal Blockers",
-          "w": 0,
+          "team_id": "10412",
+          "team_name": "Peace Love Buc-ee's",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 11,
-          "team_id": "10410",
-          "team_name": "Leftovers",
-          "w": 0,
+          "team_id": "10400",
+          "team_name": "The Hangovers",
+          "w": 1,
           "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -1,
-          "gp": 1
+          "win_pct": 0.5,
+          "win_pct_display": "0.500",
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 12,
-          "team_id": "10415",
-          "team_name": "Free Agent Team 2",
-          "w": 0,
-          "l": 1,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
+          "team_id": "10286",
+          "team_name": "Spikel B. Jordan",
+          "w": 1,
+          "l": 2,
+          "win_pct": 0.333,
+          "win_pct_display": "0.333",
           "diff": -1,
-          "gp": 1
+          "gp": 3
         },
         {
           "rank": 13,
-          "team_id": "10414",
-          "team_name": "Give Me Back My Son",
+          "team_id": "10415",
+          "team_name": "Hidden Volley Ranch",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -2,
+          "gp": 2
         },
         {
           "rank": 14,
-          "team_id": "10416",
-          "team_name": "Humble World Domination",
+          "team_id": "10406",
+          "team_name": "Bicoastal Blockers",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         },
         {
           "rank": 15,
-          "team_id": "10397",
-          "team_name": "Picklebacks",
+          "team_id": "10414",
+          "team_name": "Give Me Back My Son",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -4,
+          "gp": 2
         },
         {
           "rank": 16,
-          "team_id": "10398",
-          "team_name": "Tequila Sunsets",
+          "team_id": "10397",
+          "team_name": "Picklebacks",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         },
         {
           "rank": 17,
-          "team_id": "10400",
-          "team_name": "The Hangovers",
+          "team_id": "10398",
+          "team_name": "Tequila Sunsets",
           "w": 0,
-          "l": 1,
+          "l": 2,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -3,
-          "gp": 1
+          "diff": -6,
+          "gp": 2
         }
       ]
     },
