@@ -1,7 +1,7 @@
 {
   "season_id": "114",
   "season_label": "2026 Late Fall Leagues",
-  "generated_at": 1794404310,
+  "generated_at": 1794481366,
   "cached": false,
   "leagues": [
     {
@@ -280,6 +280,17 @@
           "rank": 1,
           "team_id": "10396",
           "team_name": "Spike Wazowskis",
+          "w": 5,
+          "l": 0,
+          "win_pct": 1.0,
+          "win_pct_display": "1.000",
+          "diff": 15,
+          "gp": 5
+        },
+        {
+          "rank": 2,
+          "team_id": "10203",
+          "team_name": "holy blockamole",
           "w": 4,
           "l": 0,
           "win_pct": 1.0,
@@ -288,158 +299,147 @@
           "gp": 4
         },
         {
-          "rank": 2,
-          "team_id": "10203",
-          "team_name": "holy blockamole",
-          "w": 3,
-          "l": 0,
-          "win_pct": 1.0,
-          "win_pct_display": "1.000",
-          "diff": 9,
-          "gp": 3
-        },
-        {
           "rank": 3,
           "team_id": "10202",
           "team_name": "TITTIES",
-          "w": 3,
+          "w": 4,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 9,
-          "gp": 3
+          "diff": 12,
+          "gp": 4
         },
         {
           "rank": 4,
           "team_id": "10288",
           "team_name": "Sand Doon",
-          "w": 3,
+          "w": 4,
           "l": 0,
           "win_pct": 1.0,
           "win_pct_display": "1.000",
-          "diff": 7,
-          "gp": 3
+          "diff": 10,
+          "gp": 4
         },
         {
           "rank": 5,
           "team_id": "10387",
           "team_name": "Cheeky Wailers",
-          "w": 2,
+          "w": 3,
           "l": 1,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 3,
-          "gp": 3
+          "win_pct": 0.75,
+          "win_pct_display": "0.750",
+          "diff": 4,
+          "gp": 4
         },
         {
           "rank": 6,
-          "team_id": "10404",
-          "team_name": "Wednesday Free Agents (2)",
-          "w": 2,
-          "l": 1,
-          "win_pct": 0.667,
-          "win_pct_display": "0.667",
-          "diff": 3,
-          "gp": 3
+          "team_id": "10284",
+          "team_name": "Setting Ducks",
+          "w": 3,
+          "l": 2,
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 2,
+          "gp": 5
         },
         {
           "rank": 7,
-          "team_id": "10282",
-          "team_name": "I Thought This Was Tennis",
+          "team_id": "10404",
+          "team_name": "Wednesday Free Agents (2)",
           "w": 2,
           "l": 2,
           "win_pct": 0.5,
           "win_pct_display": "0.500",
-          "diff": 2,
+          "diff": 0,
           "gp": 4
         },
         {
           "rank": 8,
-          "team_id": "10405",
-          "team_name": "Alan Squared",
-          "w": 1,
-          "l": 2,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": -3,
-          "gp": 3
+          "team_id": "10282",
+          "team_name": "I Thought This Was Tennis",
+          "w": 2,
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -1,
+          "gp": 5
         },
         {
           "rank": 9,
-          "team_id": "10284",
-          "team_name": "Setting Ducks",
+          "team_id": "10405",
+          "team_name": "Alan Squared",
           "w": 1,
-          "l": 2,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": -3,
-          "gp": 3
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -6,
+          "gp": 4
         },
         {
           "rank": 10,
-          "team_id": "10313",
-          "team_name": "VolleyLlamas",
-          "w": 1,
-          "l": 2,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": -4,
-          "gp": 3
-        },
-        {
-          "rank": 11,
           "team_id": "10399",
           "team_name": "Can I get a bump?",
           "w": 1,
-          "l": 2,
-          "win_pct": 0.333,
-          "win_pct_display": "0.333",
-          "diff": -5,
-          "gp": 3
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -6,
+          "gp": 4
+        },
+        {
+          "rank": 11,
+          "team_id": "10313",
+          "team_name": "VolleyLlamas",
+          "w": 1,
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -7,
+          "gp": 4
         },
         {
           "rank": 12,
-          "team_id": "10386",
-          "team_name": "The Volleyballerz",
-          "w": 0,
-          "l": 2,
-          "win_pct": 0.0,
-          "win_pct_display": "0.000",
-          "diff": -4,
-          "gp": 2
+          "team_id": "10402",
+          "team_name": "Kiss My Ace",
+          "w": 1,
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -8,
+          "gp": 4
         },
         {
           "rank": 13,
-          "team_id": "10287",
-          "team_name": "Spikel B. Jordan",
+          "team_id": "10386",
+          "team_name": "The Volleyballerz",
           "w": 0,
           "l": 3,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -8,
+          "diff": -7,
           "gp": 3
         },
         {
           "rank": 14,
-          "team_id": "10200",
-          "team_name": "Free Agent Team - Wed Int",
+          "team_id": "10287",
+          "team_name": "Spikel B. Jordan",
           "w": 0,
-          "l": 3,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
           "diff": -9,
-          "gp": 3
+          "gp": 4
         },
         {
           "rank": 15,
-          "team_id": "10402",
-          "team_name": "Kiss My Ace",
+          "team_id": "10200",
+          "team_name": "Free Agent Team - Wed Int",
           "w": 0,
-          "l": 3,
+          "l": 4,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -9,
-          "gp": 3
+          "diff": -11,
+          "gp": 4
         }
       ]
     },
