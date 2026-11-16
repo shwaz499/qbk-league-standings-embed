@@ -1,7 +1,7 @@
 {
   "season_id": "114",
   "season_label": "2026 Late Fall Leagues",
-  "generated_at": 1794567389,
+  "generated_at": 1794827073,
   "cached": false,
   "leagues": [
     {
@@ -472,13 +472,13 @@
         },
         {
           "rank": 3,
-          "team_id": "10293",
-          "team_name": "Oops I Hit it Again",
+          "team_id": "10290",
+          "team_name": "Calamitous Clams",
           "w": 2,
           "l": 2,
           "win_pct": 0.5,
           "win_pct_display": "0.500",
-          "diff": 2,
+          "diff": 4,
           "gp": 4
         },
         {
@@ -505,17 +505,6 @@
         },
         {
           "rank": 6,
-          "team_id": "10290",
-          "team_name": "Calamitous Clams",
-          "w": 1,
-          "l": 3,
-          "win_pct": 0.25,
-          "win_pct_display": "0.250",
-          "diff": -2,
-          "gp": 4
-        },
-        {
-          "rank": 7,
           "team_id": "10199",
           "team_name": "Chicken Cutlets",
           "w": 1,
@@ -526,9 +515,20 @@
           "gp": 4
         },
         {
-          "rank": 8,
+          "rank": 7,
           "team_id": "10390",
           "team_name": "Here for Beer 21.0",
+          "w": 1,
+          "l": 3,
+          "win_pct": 0.25,
+          "win_pct_display": "0.250",
+          "diff": -4,
+          "gp": 4
+        },
+        {
+          "rank": 8,
+          "team_id": "10293",
+          "team_name": "Oops I Hit it Again",
           "w": 1,
           "l": 3,
           "win_pct": 0.25,
