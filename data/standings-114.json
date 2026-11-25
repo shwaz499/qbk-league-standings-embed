@@ -1,7 +1,7 @@
 {
   "season_id": "114",
   "season_label": "2026 Late Fall Leagues",
-  "generated_at": 1795517924,
+  "generated_at": 1795604566,
   "cached": false,
   "leagues": [
     {
@@ -207,67 +207,67 @@
           "rank": 1,
           "team_id": "10395",
           "team_name": "Irish Setters",
-          "w": 3,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.75,
-          "win_pct_display": "0.750",
-          "diff": 8,
-          "gp": 4
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 9,
+          "gp": 5
         },
         {
           "rank": 2,
           "team_id": "10297",
           "team_name": "Blowfish",
-          "w": 3,
+          "w": 4,
           "l": 1,
-          "win_pct": 0.75,
-          "win_pct_display": "0.750",
-          "diff": 4,
-          "gp": 4
+          "win_pct": 0.8,
+          "win_pct_display": "0.800",
+          "diff": 7,
+          "gp": 5
         },
         {
           "rank": 3,
-          "team_id": "10408",
-          "team_name": "NEW YORK HITS",
-          "w": 2,
+          "team_id": "10393",
+          "team_name": "Las Beachotas",
+          "w": 3,
           "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 2,
-          "gp": 4
+          "win_pct": 0.6,
+          "win_pct_display": "0.600",
+          "diff": 3,
+          "gp": 5
         },
         {
           "rank": 4,
-          "team_id": "10393",
-          "team_name": "Las Beachotas",
+          "team_id": "10408",
+          "team_name": "NEW YORK HITS",
           "w": 2,
-          "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": 0,
-          "gp": 4
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -1,
+          "gp": 5
         },
         {
           "rank": 5,
           "team_id": "10407",
           "team_name": "Setsy and We Know It",
           "w": 2,
-          "l": 2,
-          "win_pct": 0.5,
-          "win_pct_display": "0.500",
-          "diff": -2,
-          "gp": 4
+          "l": 3,
+          "win_pct": 0.4,
+          "win_pct_display": "0.400",
+          "diff": -3,
+          "gp": 5
         },
         {
           "rank": 6,
           "team_id": "10197",
           "team_name": "Slam Dunk",
           "w": 0,
-          "l": 4,
+          "l": 5,
           "win_pct": 0.0,
           "win_pct_display": "0.000",
-          "diff": -12,
-          "gp": 4
+          "diff": -15,
+          "gp": 5
         }
       ]
     },
